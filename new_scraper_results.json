@@ -1,0 +1,3086 @@
+[
+  {
+    "name": "Experimental Status of Jets in Heavy-Ion Collisions",
+    "pub_url": "https://doi.org/10.48550/arXiv.2301.00855",
+    "cu_author": "Jaime Norman",
+    "date": "Jan 2023"
+  },
+  {
+    "name": "A Survey on Neural Information Retrieval",
+    "pub_url": "https://doi.org/10.48550/arXiv.2301.07859",
+    "cu_author": "Yixing Fan, Jiafeng Guo, Yanyan Lan, Xueqi Cheng",
+    "date": "Jan 2023"
+  },
+  {
+    "name": "Prompt Performance Prediction for Generative IR",
+    "pub_url": "https://doi.org/10.48550/arXiv.2301.08915",
+    "cu_author": "Nicolas Bizzozzero, Ihab Bendidi, Olivier Risser-Maroix",
+    "date": "Jan 2023"
+  },
+  {
+    "name": "Information Retrieval: Recent Advances and Beyond",
+    "pub_url": "https://doi.org/10.48550/arXiv.2301.08801",
+    "cu_author": "Kailash A. Hambarde, Hugo Proenca",
+    "date": "Jan 2023"
+  },
+  {
+    "name": "A Survey on Neural Information Retrieval",
+    "pub_url": "https://doi.org/10.48550/arXiv.2301.07859",
+    "cu_author": "Yixing Fan, Jiafeng Guo, Yanyan Lan, Xueqi Cheng",
+    "date": "Jan 2023"
+  },
+  {
+    "name": "Prompt Performance Prediction for Generative IR",
+    "pub_url": "https://doi.org/10.48550/arXiv.2301.08915",
+    "cu_author": "Nicolas Bizzozzero, Ihab Bendidi, Olivier Risser-Maroix",
+    "date": "Jan 2023"
+  },
+  {
+    "name": "Information Retrieval: Recent Advances and Beyond",
+    "pub_url": "https://doi.org/10.48550/arXiv.2301.08801",
+    "cu_author": "Kailash A. Hambarde, Hugo Proenca",
+    "date": "Jan 2023"
+  },
+  {
+    "name": "ReLoop2: Building Self-Adaptive Recommendation Models via Responsive Error Compensation Loop",
+    "pub_url": "https://doi.org/10.48550/arXiv.2306.08947",
+    "cu_author": "Jieming Zhu, Guohao Cai, Junjie Huang, Zhenhua Dong, Ruiming Tang, Weinan Zhang",
+    "date": "Jun 2023"
+  },
+  {
+    "name": "Learning to Rank when Grades Matter",
+    "pub_url": "https://doi.org/10.48550/arXiv.2306.08650",
+    "cu_author": "Le Yan, Zhen Qin, Xuanhui Wang, Gil Shamir, Mike Bendersky",
+    "date": "Jun 2023"
+  },
+  {
+    "name": "Using Wikipedia Editor Information to Build High-performance Recommender Systems",
+    "pub_url": "https://doi.org/10.48550/arXiv.2306.08636",
+    "cu_author": "Katsuhiko Hayashi",
+    "date": "Jun 2023"
+  },
+  {
+    "name": "Extracting Information from Twitter Screenshots",
+    "pub_url": "https://doi.org/10.48550/arXiv.2306.08236",
+    "cu_author": "Tarannum Zaki, Michael L. Nelson, Michele C. Weigle",
+    "date": "Jun 2023"
+  },
+  {
+    "name": "Towards Building Voice-based Conversational Recommender Systems: Datasets, Potential Solutions, and Prospects",
+    "pub_url": "https://doi.org/10.48550/arXiv.2306.08219",
+    "cu_author": "Xinghua Qu, Hongyang Liu, Zhu Sun, Xiang Yin, Yew Soon Ong, Lu Lu, Zejun Ma",
+    "date": "Jun 2023"
+  },
+  {
+    "name": "Better Generalization with Semantic IDs: A case study in Ranking for Recommendations",
+    "pub_url": "https://doi.org/10.48550/arXiv.2306.08121",
+    "cu_author": "Anima Singh, Trung Vu, Raghunandan Keshavan, Nikhil Mehta, Xinyang Yi, Lichan Hong, Lukasz Heldt, Li Wei, Ed Chi, Maheswaran Sathiamoorthy",
+    "date": "Jun 2023"
+  },
+  {
+    "name": "A Unified Framework for Multi-Modal Information Retrieval",
+    "pub_url": "https://doi.org/10.48550/arXiv.2306.08096",
+    "cu_author": "Yiwei Zhang, Zhiyong Cheng, Jingjing Chen, Liqiang Nie",
+    "date": "Jun 2023"
+  },
+    {
+      "name": "Enhancing Content-And-Structure Information Retrieval using a Native XML\n  Database",
+      "cu_author": "Jovan Pehcevski,James A. Thom,Anne-Marie Vercoustre",
+      "date": "2005-08-02",
+      "pub_url": "http://arxiv.org/abs/cs/0508017v1"
+    },
+    {
+      "name": "Dense X Retrieval: What Retrieval Granularity Should We Use?",
+      "cu_author": "Tong Chen,Hongwei Wang,Sihao Chen,Wenhao Yu,Kaixin Ma,Xinran Zhao,Dong Yu,Hongming Zhang",
+      "date": "2023-12-11",
+      "pub_url": "http://arxiv.org/abs/2312.06648v1"
+    },
+    {
+      "name": "Phrase Retrieval Learns Passage Retrieval, Too",
+      "cu_author": "Jinhyuk Lee,Alexander Wettig,Danqi Chen",
+      "date": "2021-09-16",
+      "pub_url": "http://arxiv.org/abs/2109.08133v1"
+    },
+    {
+      "name": "A Survey on Adversarial Information Retrieval on the Web",
+      "cu_author": "Saad Farooq",
+      "date": "2019-11-21",
+      "pub_url": "http://arxiv.org/abs/1911.11060v3"
+    },
+    {
+      "name": "Inference-time Re-ranker Relevance Feedback for Neural Information\n  Retrieval",
+      "cu_author": "Revanth Gangi Reddy,Pradeep Dasigi,Md Arafat Sultan,Arman Cohan,Avirup Sil,Heng Ji,Hannaneh Hajishirzi",
+      "date": "2023-05-19",
+      "pub_url": "http://arxiv.org/abs/2305.11744v1"
+    },
+    {
+      "name": "A Study on the Efficiency and Generalization of Light Hybrid Retrievers",
+      "cu_author": "Man Luo,Shashank Jain,Anchit Gupta,Arash Einolghozati,Barlas Oguz,Debojeet Chatterjee,Xilun Chen,Chitta Baral,Peyman Heidari",
+      "date": "2022-10-04",
+      "pub_url": "http://arxiv.org/abs/2210.01371v2"
+    },
+    {
+      "name": "Explainable Information Retrieval: A Survey",
+      "cu_author": "Avishek Anand,Lijun Lyu,Maximilian Idahl,Yumeng Wang,Jonas Wallat,Zijian Zhang",
+      "date": "2022-11-04",
+      "pub_url": "http://arxiv.org/abs/2211.02405v1"
+    },
+    {
+      "name": "Predicting Efficiency/Effectiveness Trade-offs for Dense vs. Sparse\n  Retrieval Strategy Selection",
+      "cu_author": "Negar Arabzadeh,Xinyi Yan,Charles L. A. Clarke",
+      "date": "2021-09-22",
+      "pub_url": "http://arxiv.org/abs/2109.10739v1"
+    },
+    {
+      "name": "Content Based Multimedia Information Retrieval to Support Digital\n  Libraries",
+      "cu_author": "Mohammad Nabil Almunawar",
+      "date": "2012-07-18",
+      "pub_url": "http://arxiv.org/abs/1207.4259v1"
+    },
+    {
+      "name": "Modular Retrieval for Generalization and Interpretation",
+      "cu_author": "Juhao Liang,Chen Zhang,Zhengyang Tang,Jie Fu,Dawei Song,Benyou Wang",
+      "date": "2023-03-23",
+      "pub_url": "http://arxiv.org/abs/2303.13419v1"
+    },
+    {
+      "name": "DoSSIER@COLIEE 2021: Leveraging dense retrieval and summarization-based\n  re-ranking for case law retrieval",
+      "cu_author": "Sophia Althammer,Arian Askari,Suzan Verberne,Allan Hanbury",
+      "date": "2021-08-09",
+      "pub_url": "http://arxiv.org/abs/2108.03937v1"
+    },
+    {
+      "name": "Context Tuning for Retrieval Augmented Generation",
+      "cu_author": "Raviteja Anantha,Tharun Bethi,Danil Vodianik,Srinivas Chappidi",
+      "date": "2023-12-09",
+      "pub_url": "http://arxiv.org/abs/2312.05708v1"
+    },
+    {
+      "name": "Visual Display and Retrieval of Music Information",
+      "cu_author": "Rafael Valle",
+      "date": "2018-07-26",
+      "pub_url": "http://arxiv.org/abs/1807.10204v1"
+    },
+    {
+      "name": "PARM: A Paragraph Aggregation Retrieval Model for Dense\n  Document-to-Document Retrieval",
+      "cu_author": "Sophia Althammer,Sebastian Hofst\u00e4tter,Mete Sertkan,Suzan Verberne,Allan Hanbury",
+      "date": "2022-01-05",
+      "pub_url": "http://arxiv.org/abs/2201.01614v2"
+    },
+    {
+      "name": "Turkish Text Retrieval Experiments Using Lemur Toolkit",
+      "cu_author": "Kutlu Emre Y\u0131lmaz,Ahmet Arslan,Ozgur Yilmazel",
+      "date": "2014-05-07",
+      "pub_url": "http://arxiv.org/abs/1405.1740v1"
+    },
+    {
+      "name": "Editorial for the Bibliometric-enhanced Information Retrieval Workshop\n  at ECIR 2014",
+      "cu_author": "Philipp Mayr,Philipp Schaer,Andrea Scharnhorst,Peter Mutschke",
+      "date": "2014-04-28",
+      "pub_url": "http://arxiv.org/abs/1404.7099v1"
+    },
+    {
+      "name": "Lecture Notes on Neural Information Retrieval",
+      "cu_author": "Nicola Tonellotto",
+      "date": "2022-07-27",
+      "pub_url": "http://arxiv.org/abs/2207.13443v2"
+    },
+    {
+      "name": "On the Robustness of Generative Retrieval Models: An Out-of-Distribution\n  Perspective",
+      "cu_author": "Yu-An Liu,Ruqing Zhang,Jiafeng Guo,Wei Chen,Xueqi Cheng",
+      "date": "2023-06-22",
+      "pub_url": "http://arxiv.org/abs/2306.12756v1"
+    },
+    {
+      "name": "Generative Retrieval as Dense Retrieval",
+      "cu_author": "Thong Nguyen,Andrew Yates",
+      "date": "2023-06-20",
+      "pub_url": "http://arxiv.org/abs/2306.11397v1"
+    },
+    {
+      "name": "Information Retrieval and Its Sister Disciplines",
+      "cu_author": "Grace Hui Yang",
+      "date": "2019-12-05",
+      "pub_url": "http://arxiv.org/abs/1912.02346v1"
+    },
+    {
+      "name": "Information Retrieval in the Cloud",
+      "cu_author": "Jochen L. Leidner",
+      "date": "2018-07-01",
+      "pub_url": "http://arxiv.org/abs/1807.00257v1"
+    },
+    {
+      "name": "On-The-Fly Information Retrieval Augmentation for Language Models",
+      "cu_author": "Hai Wang,David McAllester",
+      "date": "2020-07-03",
+      "pub_url": "http://arxiv.org/abs/2007.01528v1"
+    },
+    {
+      "name": "Advancing continual lifelong learning in neural information retrieval:\n  definition, dataset, framework, and empirical evaluation",
+      "cu_author": "Jingrui Hou,Georgina Cosma,Axel Finke",
+      "date": "2023-08-16",
+      "pub_url": "http://arxiv.org/abs/2308.08378v1"
+    },
+    {
+      "name": "FreestyleRet: Retrieving Images from Style-Diversified Queries",
+      "cu_author": "Hao Li,Curise Jia,Peng Jin,Zesen Cheng,Kehan Li,Jialu Sui,Chang Liu,Li Yuan",
+      "date": "2023-12-05",
+      "pub_url": "http://arxiv.org/abs/2312.02428v2"
+    },
+    {
+      "name": "From Scattered Sources to Comprehensive Technology Landscape: A\n  Recommendation-based Retrieval Approach",
+      "cu_author": "Chi Thang Duong,Dimitri Percia David,Ljiljana Dolamic,Alain Mermoud,Vincent Lenders,Karl Aberer",
+      "date": "2021-12-09",
+      "pub_url": "http://arxiv.org/abs/2112.04810v1"
+    },
+    {
+      "name": "Content-based Multi-media Retrieval Technology",
+      "cu_author": "Yi Wang",
+      "date": "2012-08-15",
+      "pub_url": "http://arxiv.org/abs/1209.2070v1"
+    },
+    {
+      "name": "Retrievability in an Integrated Retrieval System: An Extended Study",
+      "cu_author": "Dwaipayan Roy,Zeljko Carevic,Philipp Mayr",
+      "date": "2023-03-27",
+      "pub_url": "http://arxiv.org/abs/2303.15036v1"
+    },
+    {
+      "name": "Information Retrieval on the web and its evaluation",
+      "cu_author": "Deepika Sharma,Deepak Garg",
+      "date": "2012-09-28",
+      "pub_url": "http://arxiv.org/abs/1209.6492v1"
+    },
+    {
+      "name": "Evaluating Generative Ad Hoc Information Retrieval",
+      "cu_author": "Lukas Gienapp,Harrisen Scells,Niklas Deckers,Janek Bevendorff,Shuai Wang,Johannes Kiesel,Shahbaz Syed,Maik Fr\u00f6be,Guido Zuccon,Benno Stein,Matthias Hagen,Martin Potthast",
+      "date": "2023-11-08",
+      "pub_url": "http://arxiv.org/abs/2311.04694v1"
+    },
+    {
+      "name": "WikiPassageQA: A Benchmark Collection for Research on Non-factoid Answer\n  Passage Retrieval",
+      "cu_author": "Daniel Cohen,Liu Yang,W. Bruce Croft",
+      "date": "2018-05-10",
+      "pub_url": "http://arxiv.org/abs/1805.03797v1"
+    },
+    {
+      "name": "Do the Findings of Document and Passage Retrieval Generalize to the\n  Retrieval of Responses for Dialogues?",
+      "cu_author": "Gustavo Penha,Claudia Hauff",
+      "date": "2023-01-13",
+      "pub_url": "http://arxiv.org/abs/2301.05508v1"
+    },
+    {
+      "name": "Early Stage Sparse Retrieval with Entity Linking",
+      "cu_author": "Dahlia Shehata,Negar Arabzadeh,Charles L. A. Clarke",
+      "date": "2022-08-09",
+      "pub_url": "http://arxiv.org/abs/2208.04887v2"
+    },
+    {
+      "name": "Dense Text Retrieval based on Pretrained Language Models: A Survey",
+      "cu_author": "Wayne Xin Zhao,Jing Liu,Ruiyang Ren,Ji-Rong Wen",
+      "date": "2022-11-27",
+      "pub_url": "http://arxiv.org/abs/2211.14876v1"
+    },
+    {
+      "name": "Discriminative Information Retrieval for Knowledge Discovery",
+      "cu_author": "Tongfei Chen,Benjamin Van Durme",
+      "date": "2016-10-06",
+      "pub_url": "http://arxiv.org/abs/1610.01901v1"
+    },
+    {
+      "name": "Deep Learning Based Semantic Video Indexing and Retrieval",
+      "cu_author": "Anna Podlesnaya,Sergey Podlesnyy",
+      "date": "2016-01-28",
+      "pub_url": "http://arxiv.org/abs/1601.07754v1"
+    },
+    {
+      "name": "Information Retrieval (IR) through Semantic Web (SW): An Overview",
+      "cu_author": "Gagandeep Singh,Vishal Jain",
+      "date": "2014-03-27",
+      "pub_url": "http://arxiv.org/abs/1403.7162v1"
+    },
+    {
+      "name": "A Geometric Model for Information Retrieval Systems",
+      "cu_author": "Myung Ho Kim",
+      "date": "1999-12-06",
+      "pub_url": "http://arxiv.org/abs/cs/9912002v1"
+    },
+    {
+      "name": "Dynamic Information Retrieval: Theoretical Framework and Application",
+      "cu_author": "Marc Sloan,Jun Wang",
+      "date": "2016-01-18",
+      "pub_url": "http://arxiv.org/abs/1601.04605v1"
+    },
+    {
+      "name": "Mr. Right: Multimodal Retrieval on Representation of ImaGe witH Text",
+      "cu_author": "Cheng-An Hsieh,Cheng-Ping Hsieh,Pu-Jen Cheng",
+      "date": "2022-09-28",
+      "pub_url": "http://arxiv.org/abs/2209.13764v1"
+    },
+    {
+      "name": "Phase Retrieval From the Magnitudes of Affine Linear Measurements",
+      "cu_author": "Bing Gao,Qiyu Sun,Yang Wang,Zhiqiang Xu",
+      "date": "2016-08-22",
+      "pub_url": "http://arxiv.org/abs/1608.06117v1"
+    },
+    {
+      "name": "Rethinking the Role of Token Retrieval in Multi-Vector Retrieval",
+      "cu_author": "Jinhyuk Lee,Zhuyun Dai,Sai Meher Karthik Duddu,Tao Lei,Iftekhar Naim,Ming-Wei Chang,Vincent Y. Zhao",
+      "date": "2023-04-04",
+      "pub_url": "http://arxiv.org/abs/2304.01982v2"
+    },
+    {
+      "name": "Bibliometric-enhanced Information Retrieval",
+      "cu_author": "Philipp Mayr,Andrea Scharnhorst,Birger Larsen,Philipp Schaer,Peter Mutschke",
+      "date": "2013-10-30",
+      "pub_url": "http://arxiv.org/abs/1310.8226v1"
+    },
+    {
+      "name": "Adapting Binary Information Retrieval Evaluation Metrics for\n  Segment-based Retrieval Tasks",
+      "cu_author": "Robin Aly,Maria Eskevich,Roeland Ordelman,Gareth J. F. Jones",
+      "date": "2013-12-06",
+      "pub_url": "http://arxiv.org/abs/1312.1913v1"
+    },
+    {
+      "name": "An Accuracy-Enhanced Stemming Algorithm for Arabic Information Retrieval",
+      "cu_author": "Sadik Bessou,Mohamed Touahria",
+      "date": "2019-11-15",
+      "pub_url": "http://arxiv.org/abs/1911.08249v1"
+    },
+    {
+      "name": "A Personalized Dense Retrieval Framework for Unified Information Access",
+      "cu_author": "Hansi Zeng,Surya Kallumadi,Zaid Alibadi,Rodrigo Nogueira,Hamed Zamani",
+      "date": "2023-04-26",
+      "pub_url": "http://arxiv.org/abs/2304.13654v1"
+    },
+    {
+      "name": "Robust Information Retrieval for False Claims with Distracting Entities\n  In Fact Extraction and Verification",
+      "cu_author": "Mingwen Dong,Christos Christodoulopoulos,Sheng-Min Shih,Xiaofei Ma",
+      "date": "2021-12-10",
+      "pub_url": "http://arxiv.org/abs/2112.07618v1"
+    },
+    {
+      "name": "Efficient Cross-Modal Retrieval via Deep Binary Hashing and Quantization",
+      "cu_author": "Yang Shi,Young-joo Chung",
+      "date": "2022-02-15",
+      "pub_url": "http://arxiv.org/abs/2202.10232v1"
+    },
+    {
+      "name": "Boosting legal case retrieval by query content selection with large\n  language models",
+      "cu_author": "Youchao Zhou,Heyan Huang,Zhijing Wu",
+      "date": "2023-12-06",
+      "pub_url": "http://arxiv.org/abs/2312.03494v1"
+    },
+    {
+      "name": "A Unified Generative Retriever for Knowledge-Intensive Language Tasks\n  via Prompt Learning",
+      "cu_author": "Jiangui Chen,Ruqing Zhang,Jiafeng Guo,Maarten de Rijke,Yiqun Liu,Yixing Fan,Xueqi Cheng",
+      "date": "2023-04-28",
+      "pub_url": "http://arxiv.org/abs/2304.14856v1"
+    },
+    {
+      "name": "Lexically-Accelerated Dense Retrieval",
+      "cu_author": "Hrishikesh Kulkarni,Sean MacAvaney,Nazli Goharian,Ophir Frieder",
+      "date": "2023-07-31",
+      "pub_url": "http://arxiv.org/abs/2307.16779v1"
+    },
+    {
+      "name": "An Intent Taxonomy of Legal Case Retrieval",
+      "cu_author": "Yunqiu Shao,Haitao Li,Yueyue Wu,Yiqun Liu,Qingyao Ai,Jiaxin Mao,Yixiao Ma,Shaoping Ma",
+      "date": "2023-07-25",
+      "pub_url": "http://arxiv.org/abs/2307.13298v1"
+    },
+    {
+      "name": "SEINE: SEgment-based Indexing for NEural information retrieval",
+      "cu_author": "Sibo Dong,Justin Goldstein,Grace Hui Yang",
+      "date": "2023-11-27",
+      "pub_url": "http://arxiv.org/abs/2311.15923v1"
+    },
+    {
+      "name": "UniIR: Training and Benchmarking Universal Multimodal Information\n  Retrievers",
+      "cu_author": "Cong Wei,Yang Chen,Haonan Chen,Hexiang Hu,Ge Zhang,Jie Fu,Alan Ritter,Wenhu Chen",
+      "date": "2023-11-28",
+      "pub_url": "http://arxiv.org/abs/2311.17136v1"
+    },
+    {
+      "name": "XML Information Retrieval Systems: A Survey",
+      "cu_author": "Awny Sayed",
+      "date": "2011-11-28",
+      "pub_url": "http://arxiv.org/abs/1111.6349v1"
+    },
+    {
+      "name": "Combining Text and Formula Queries in Math Information Retrieval:\n  Evaluation of Query Results Merging Strategies",
+      "cu_author": "Martin L\u00ed\u0161ka,Petr Sojka,Michal R\u016f\u017ei\u010dka",
+      "date": "2015-08-08",
+      "pub_url": "http://arxiv.org/abs/1508.01929v1"
+    },
+    {
+      "name": "Experiments on Manual Thesaurus based Query Expansion for Ad-hoc\n  Monolingual Gujarati Information Retrieval Tasks",
+      "cu_author": "Hardik Joshi,Jyoti Pareek",
+      "date": "2020-01-18",
+      "pub_url": "http://arxiv.org/abs/2001.08085v1"
+    },
+    {
+      "name": "Evaluating Information Retrieval Systems for Kids",
+      "cu_author": "Ashlee Milton,Maria Soledad Pera",
+      "date": "2020-05-21",
+      "pub_url": "http://arxiv.org/abs/2005.12992v1"
+    },
+    {
+      "name": "De la recherche sociale d'information \u00e0 la recherche collaborative\n  d'information",
+      "cu_author": "Victor Odumuyiwa",
+      "date": "2009-11-28",
+      "pub_url": "http://arxiv.org/abs/0911.5378v1"
+    },
+    {
+      "name": "Passage Retrieval for Outside-Knowledge Visual Question Answering",
+      "cu_author": "Chen Qu,Hamed Zamani,Liu Yang,W. Bruce Croft,Erik Learned-Miller",
+      "date": "2021-05-09",
+      "pub_url": "http://arxiv.org/abs/2105.03938v1"
+    },
+    {
+      "name": "Evaluating Token-Level and Passage-Level Dense Retrieval Models for Math\n  Information Retrieval",
+      "cu_author": "Wei Zhong,Jheng-Hong Yang,Yuqing Xie,Jimmy Lin",
+      "date": "2022-03-21",
+      "pub_url": "http://arxiv.org/abs/2203.11163v2"
+    },
+    {
+      "name": "Hybrid XML Retrieval: Combining Information Retrieval and a Native XML\n  Database",
+      "cu_author": "Jovan Pehcevski,James A. Thom,Anne-Marie Vercoustre",
+      "date": "2005-07-28",
+      "pub_url": "http://arxiv.org/abs/cs/0507070v1"
+    },
+    {
+      "name": "Information retrieval system for silte language using BM25 weighting",
+      "cu_author": "Abdulmalik Johar",
+      "date": "2020-12-16",
+      "pub_url": "http://arxiv.org/abs/2012.08907v1"
+    },
+    {
+      "name": "Densifying Sparse Representations for Passage Retrieval by\n  Representational Slicing",
+      "cu_author": "Sheng-Chieh Lin,Jimmy Lin",
+      "date": "2021-12-09",
+      "pub_url": "http://arxiv.org/abs/2112.04666v1"
+    },
+    {
+      "name": "Case law retrieval: problems, methods, challenges and evaluations in the\n  last 20 years",
+      "cu_author": "Daniel Locke,Guido Zuccon",
+      "date": "2022-02-15",
+      "pub_url": "http://arxiv.org/abs/2202.07209v1"
+    },
+    {
+      "name": "Towards Content-based Pixel Retrieval in Revisited Oxford and Paris",
+      "cu_author": "Guoyuan An,Woo Jae Kim,Saelyne Yang,Rong Li,Yuchi Huo,Sung-Eui Yoon",
+      "date": "2023-09-11",
+      "pub_url": "http://arxiv.org/abs/2309.05438v1"
+    },
+    {
+      "name": "A New Email Retrieval Ranking Approach",
+      "cu_author": "Samir AbdelRahman,Basma Hassan,Reem Bahgat",
+      "date": "2010-11-02",
+      "pub_url": "http://arxiv.org/abs/1011.0502v1"
+    },
+    {
+      "name": "Semantic Arabic Information Retrieval Framework",
+      "cu_author": "Eissa M. Alshari",
+      "date": "2015-12-10",
+      "pub_url": "http://arxiv.org/abs/1512.03165v1"
+    },
+    {
+      "name": "Private Information Retrieval Schemes Using Cyclic Codes",
+      "cu_author": "\u015eeyma Bodur,Edgar Mart\u00ednez-Moro,Diego Ruano",
+      "date": "2021-11-17",
+      "pub_url": "http://arxiv.org/abs/2111.09060v2"
+    },
+    {
+      "name": "Towards Proactive Information Retrieval in Noisy Text with Wikipedia\n  Concepts",
+      "cu_author": "Tabish Ahmed,Sahan Bulathwela",
+      "date": "2022-10-18",
+      "pub_url": "http://arxiv.org/abs/2210.09877v1"
+    },
+    {
+      "name": "A Novelty-based Evaluation Method for Information Retrieval",
+      "cu_author": "Atsushi Fujii,Tetsuya Ishikawa",
+      "date": "2000-11-02",
+      "pub_url": "http://arxiv.org/abs/cs/0011002v1"
+    },
+    {
+      "name": "Speech-Driven Text Retrieval: Using Target IR Collections for\n  Statistical Language Model Adaptation in Speech Recognition",
+      "cu_author": "Atsushi Fujii,Katunobu Itou,Tetsuya Ishikawa",
+      "date": "2002-06-24",
+      "pub_url": "http://arxiv.org/abs/cs/0206037v1"
+    },
+    {
+      "name": "An Ontology-based Model for Indexing and Retrieval",
+      "cu_author": "Winfried G\u00f6dert",
+      "date": "2013-12-16",
+      "pub_url": "http://arxiv.org/abs/1312.4425v1"
+    },
+    {
+      "name": "Benchmark for Complex Answer Retrieval",
+      "cu_author": "Federico Nanni,Bhaskar Mitra,Matt Magnusson,Laura Dietz",
+      "date": "2017-05-13",
+      "pub_url": "http://arxiv.org/abs/1705.04803v1"
+    },
+    {
+      "name": "Information Retrieval Model: A Social Network Extraction Perspective",
+      "cu_author": "Mahyuddin K. M. Nasution,Shahrul Azman Noah",
+      "date": "2012-07-16",
+      "pub_url": "http://arxiv.org/abs/1207.3583v1"
+    },
+    {
+      "name": "Report on the 3rd Joint Workshop on Bibliometric-enhanced Information\n  Retrieval and Natural Language Processing for Digital Libraries (BIRNDL 2018)",
+      "cu_author": "Philipp Mayr,Muthu Kumar Chandrasekaran,Kokil Jaidka",
+      "date": "2018-12-02",
+      "pub_url": "http://arxiv.org/abs/1812.00427v1"
+    },
+    {
+      "name": "An Empirical Study of Some Selected IR Models for Bengali Monolingual\n  Information Retrieval",
+      "cu_author": "Kamal Sarkar,Avisek Gupta",
+      "date": "2017-06-10",
+      "pub_url": "http://arxiv.org/abs/1706.03266v1"
+    },
+    {
+      "name": "RelEmb: A relevance-based application embedding for Mobile App retrieval\n  and categorization",
+      "cu_author": "Ahsaas Bajaj,Shubham Krishna,Mukund Rungta,Hemant Tiwari,Vanraj Vala",
+      "date": "2019-04-14",
+      "pub_url": "http://arxiv.org/abs/1904.06672v1"
+    },
+    {
+      "name": "Information Retrieval: Recent Advances and Beyond",
+      "cu_author": "Kailash A. Hambarde,Hugo Proenca",
+      "date": "2023-01-20",
+      "pub_url": "http://arxiv.org/abs/2301.08801v1"
+    },
+    {
+      "name": "Diverse Yet Efficient Retrieval using Hash Functions",
+      "cu_author": "Vidyadhar Rao,Prateek Jain,C. V Jawahar",
+      "date": "2015-09-22",
+      "pub_url": "http://arxiv.org/abs/1509.06553v2"
+    },
+    {
+      "name": "RetrievalGuard: Provably Robust 1-Nearest Neighbor Image Retrieval",
+      "cu_author": "Yihan Wu,Hongyang Zhang,Heng Huang",
+      "date": "2022-06-17",
+      "pub_url": "http://arxiv.org/abs/2206.11225v1"
+    },
+    {
+      "name": "Long-range Language Modeling with Self-retrieval",
+      "cu_author": "Ohad Rubin,Jonathan Berant",
+      "date": "2023-06-23",
+      "pub_url": "http://arxiv.org/abs/2306.13421v1"
+    },
+    {
+      "name": "Learning to Rank in Generative Retrieval",
+      "cu_author": "Yongqi Li,Nan Yang,Liang Wang,Furu Wei,Wenjie Li",
+      "date": "2023-06-27",
+      "pub_url": "http://arxiv.org/abs/2306.15222v1"
+    },
+    {
+      "name": "Improving Multitask Retrieval by Promoting Task Specialization",
+      "cu_author": "Wenzheng Zhang,Chenyan Xiong,Karl Stratos,Arnold Overwijk",
+      "date": "2023-07-01",
+      "pub_url": "http://arxiv.org/abs/2307.00342v1"
+    },
+    {
+      "name": "Studying Retrievability of Publications and Datasets in an Integrated\n  Retrieval System",
+      "cu_author": "Dwaipayan Roy,Zeljko Carevic,Philipp Mayr",
+      "date": "2022-05-02",
+      "pub_url": "http://arxiv.org/abs/2205.00937v1"
+    },
+    {
+      "name": "Anserini Gets Dense Retrieval: Integration of Lucene's HNSW Indexes",
+      "cu_author": "Xueguang Ma,Tommaso Teofili,Jimmy Lin",
+      "date": "2023-04-24",
+      "pub_url": "http://arxiv.org/abs/2304.12139v1"
+    },
+    {
+      "name": "CONVERSER: Few-Shot Conversational Dense Retrieval with Synthetic Data\n  Generation",
+      "cu_author": "Chao-Wei Huang,Chen-Yu Hsu,Tsu-Yuan Hsu,Chen-An Li,Yun-Nung Chen",
+      "date": "2023-09-13",
+      "pub_url": "http://arxiv.org/abs/2309.06748v1"
+    },
+    {
+      "name": "Modeling Spoken Information Queries for Virtual Assistants: Open\n  Problems, Challenges and Opportunities",
+      "cu_author": "Christophe Van Gysel",
+      "date": "2023-04-25",
+      "pub_url": "http://arxiv.org/abs/2304.13149v1"
+    },
+    {
+      "name": "Symmetric Private Information Retrieval For MDS Coded Distributed\n  Storage",
+      "cu_author": "Qiwen Wang,Mikael Skoglund",
+      "date": "2016-10-14",
+      "pub_url": "http://arxiv.org/abs/1610.04530v1"
+    },
+    {
+      "name": "Towards Improving the Explainability of Text-based Information Retrieval\n  with Knowledge Graphs",
+      "cu_author": "Boqi Chen,Kua Chen,Yujing Yang,Afshin Amini,Bharat Saxena,Cecilia Ch\u00e1vez-Garc\u00eda,Majid Babaei,Amir Feizpour,D\u00e1niel Varr\u00f3",
+      "date": "2023-01-17",
+      "pub_url": "http://arxiv.org/abs/2301.06974v1"
+    },
+    {
+      "name": "Generate-then-Retrieve: Intent-Aware FAQ Retrieval in Product Search",
+      "cu_author": "Zhiyu Chen,Jason Choi,Besnik Fetahu,Oleg Rokhlenko,Shervin Malmasi",
+      "date": "2023-06-06",
+      "pub_url": "http://arxiv.org/abs/2306.03411v1"
+    },
+    {
+      "name": "Combining Lexical and Dense Retrieval for Computationally Efficient\n  Multi-hop Question Answering",
+      "cu_author": "Georgios Sidiropoulos,Nikos Voskarides,Svitlana Vakulenko,Evangelos Kanoulas",
+      "date": "2021-06-15",
+      "pub_url": "http://arxiv.org/abs/2106.08433v2"
+    },
+    {
+      "name": "Improving BERT-based Query-by-Document Retrieval with Multi-Task\n  Optimization",
+      "cu_author": "Amin Abolghasemi,Suzan Verberne,Leif Azzopardi",
+      "date": "2022-02-01",
+      "pub_url": "http://arxiv.org/abs/2202.00373v2"
+    },
+    {
+      "name": "Reasoning over Public and Private Data in Retrieval-Based Systems",
+      "cu_author": "Simran Arora,Patrick Lewis,Angela Fan,Jacob Kahn,Christopher R\u00e9",
+      "date": "2022-03-14",
+      "pub_url": "http://arxiv.org/abs/2203.11027v1"
+    },
+    {
+      "name": "Interactive Spoken Content Retrieval by Deep Reinforcement Learning",
+      "cu_author": "Yen-Chen Wu,Tzu-Hsiang Lin,Yang-De Chen,Hung-Yi Lee,Lin-Shan Lee",
+      "date": "2016-09-16",
+      "pub_url": "http://arxiv.org/abs/1609.05234v1"
+    },
+    {
+      "name": "Learning To Retrieve: How to Train a Dense Retrieval Model Effectively\n  and Efficiently",
+      "cu_author": "Jingtao Zhan,Jiaxin Mao,Yiqun Liu,Min Zhang,Shaoping Ma",
+      "date": "2020-10-20",
+      "pub_url": "http://arxiv.org/abs/2010.10469v1"
+    },
+    {
+      "name": "Enhancing Retrieval-Augmented Large Language Models with Iterative\n  Retrieval-Generation Synergy",
+      "cu_author": "Zhihong Shao,Yeyun Gong,Yelong Shen,Minlie Huang,Nan Duan,Weizhu Chen",
+      "date": "2023-05-24",
+      "pub_url": "http://arxiv.org/abs/2305.15294v2"
+    },
+    {
+      "name": "Plot Retrieval as an Assessment of Abstract Semantic Association",
+      "cu_author": "Shicheng Xu,Liang Pang,Jiangnan Li,Mo Yu,Fandong Meng,Huawei Shen,Xueqi Cheng,Jie Zhou",
+      "date": "2023-11-03",
+      "pub_url": "http://arxiv.org/abs/2311.01666v1"
+    },
+    {
+      "name": "Bridging the Training-Inference Gap for Dense Phrase Retrieval",
+      "cu_author": "Gyuwan Kim,Jinhyuk Lee,Barlas Oguz,Wenhan Xiong,Yizhe Zhang,Yashar Mehdad,William Yang Wang",
+      "date": "2022-10-25",
+      "pub_url": "http://arxiv.org/abs/2210.13678v1"
+    },
+    {
+      "name": "LLatrieval: LLM-Verified Retrieval for Verifiable Generation",
+      "cu_author": "Xiaonan Li,Changtai Zhu,Linyang Li,Zhangyue Yin,Tianxiang Sun,Xipeng Qiu",
+      "date": "2023-11-14",
+      "pub_url": "http://arxiv.org/abs/2311.07838v1"
+    },
+    {
+      "name": "Blind Interference Alignment for Private Information Retrieval",
+      "cu_author": "Hua Sun,Syed A. Jafar",
+      "date": "2016-01-28",
+      "pub_url": "http://arxiv.org/abs/1601.07885v1"
+    },
+    {
+      "name": "Editorial for the Proceedings of the Workshop Knowledge Maps and\n  Information Retrieval (KMIR2014) at Digital Libraries 2014",
+      "cu_author": "Peter Mutschke,Philipp Mayr,Andrea Scharnhorst",
+      "date": "2015-02-06",
+      "pub_url": "http://arxiv.org/abs/1502.01963v1"
+    },
+    {
+      "name": "Introductory review to quantum information retrieval",
+      "cu_author": "Alexander Lebedev,Andrei Khrennikov",
+      "date": "2020-08-05",
+      "pub_url": "http://arxiv.org/abs/2008.13541v1"
+    },
+    {
+      "name": "Video-Music Retrieval:A Dual-Path Cross-Modal Network",
+      "cu_author": "Xin Gu,Yinghua Shen,Chaohui Lv",
+      "date": "2022-11-16",
+      "pub_url": "http://arxiv.org/abs/2211.08878v1"
+    },
+    {
+      "name": "Hindsight: Posterior-guided training of retrievers for improved\n  open-ended generation",
+      "cu_author": "Ashwin Paranjape,Omar Khattab,Christopher Potts,Matei Zaharia,Christopher D. Manning",
+      "date": "2021-10-14",
+      "pub_url": "http://arxiv.org/abs/2110.07752v2"
+    },
+    {
+      "name": "Scalable and Effective Generative Information Retrieval",
+      "cu_author": "Hansi Zeng,Chen Luo,Bowen Jin,Sheikh Muhammad Sarwar,Tianxin Wei,Hamed Zamani",
+      "date": "2023-11-15",
+      "pub_url": "http://arxiv.org/abs/2311.09134v1"
+    },
+    {
+      "name": "Weakly-Private Information Retrieval",
+      "cu_author": "Hsuan-Yin Lin,Siddhartha Kumar,Eirik Rosnes,Alexandre Graell i Amat,Eitan Yaakobi",
+      "date": "2019-01-20",
+      "pub_url": "http://arxiv.org/abs/1901.06730v2"
+    },
+    {
+      "name": "Quantum emulation of query extension in information retrieval",
+      "cu_author": "Rom\u00e0n Zapatrin",
+      "date": "2014-11-14",
+      "pub_url": "http://arxiv.org/abs/1411.3843v1"
+    },
+    {
+      "name": "Investigating Retrieval Method Selection with Axiomatic Features",
+      "cu_author": "Siddhant Arora,Andrew Yates",
+      "date": "2019-04-11",
+      "pub_url": "http://arxiv.org/abs/1904.05737v1"
+    },
+    {
+      "name": "Cross-language Information Retrieval",
+      "cu_author": "Petra Galu\u0161\u010d\u00e1kov\u00e1,Douglas W. Oard,Suraj Nair",
+      "date": "2021-11-10",
+      "pub_url": "http://arxiv.org/abs/2111.05988v2"
+    },
+    {
+      "name": "Continuous Active Learning Using Pretrained Transformers",
+      "cu_author": "Nima Sadri,Gordon V. Cormack",
+      "date": "2022-08-15",
+      "pub_url": "http://arxiv.org/abs/2208.06955v1"
+    },
+    {
+      "name": "Mathematical knowledge management is needed",
+      "cu_author": "Michiel Hazewinkel",
+      "date": "2004-10-21",
+      "pub_url": "http://arxiv.org/abs/cs/0410055v1"
+    },
+    {
+      "name": "Concept-based indexing in text information retrieval",
+      "cu_author": "Fatiha Boubekeur,Wassila Azzoug",
+      "date": "2013-03-07",
+      "pub_url": "http://arxiv.org/abs/1303.1703v1"
+    },
+    {
+      "name": "Private Information Retrieval for Coded Storage",
+      "cu_author": "Terence H. Chan,Siu-Wai Ho,Hirosuke Yamamoto",
+      "date": "2014-10-20",
+      "pub_url": "http://arxiv.org/abs/1410.5489v1"
+    },
+    {
+      "name": "Deep Reinforced Query Reformulation for Information Retrieval",
+      "cu_author": "Xiao Wang,Craig Macdonald,Iadh Ounis",
+      "date": "2020-07-15",
+      "pub_url": "http://arxiv.org/abs/2007.07987v1"
+    },
+    {
+      "name": "Declarative Experimentation in Information Retrieval using PyTerrier",
+      "cu_author": "Craig Macdonald,Nicola Tonellotto",
+      "date": "2020-07-28",
+      "pub_url": "http://arxiv.org/abs/2007.14271v1"
+    },
+    {
+      "name": "A Proposed Conceptual Framework for a Representational Approach to\n  Information Retrieval",
+      "cu_author": "Jimmy Lin",
+      "date": "2021-10-04",
+      "pub_url": "http://arxiv.org/abs/2110.01529v2"
+    },
+    {
+      "name": "Retrieval Oriented Masking Pre-training Language Model for Dense Passage\n  Retrieval",
+      "cu_author": "Dingkun Long,Yanzhao Zhang,Guangwei Xu,Pengjun Xie",
+      "date": "2022-10-27",
+      "pub_url": "http://arxiv.org/abs/2210.15133v1"
+    },
+    {
+      "name": "Finding the Law: Enhancing Statutory Article Retrieval via Graph Neural\n  Networks",
+      "cu_author": "Antoine Louis,Gijs van Dijck,Gerasimos Spanakis",
+      "date": "2023-01-30",
+      "pub_url": "http://arxiv.org/abs/2301.12847v1"
+    },
+    {
+      "name": "An Intrinsic Framework of Information Retrieval Evaluation Measures",
+      "cu_author": "Fernando Giner",
+      "date": "2023-04-02",
+      "pub_url": "http://arxiv.org/abs/2304.00615v1"
+    },
+    {
+      "name": "Approximate textual retrieval",
+      "cu_author": "Pere Constans",
+      "date": "2007-05-05",
+      "pub_url": "http://arxiv.org/abs/0705.0751v1"
+    },
+    {
+      "name": "Applying Science Models for Search",
+      "cu_author": "Philipp Mayr,Peter Mutschke,Vivien Petras,Philipp Schaer,York Sure",
+      "date": "2011-01-09",
+      "pub_url": "http://arxiv.org/abs/1101.1639v1"
+    },
+    {
+      "name": "A Survey on Retrieval of Mathematical Knowledge",
+      "cu_author": "F. Guidi,C. Sacerdoti Coen",
+      "date": "2015-05-25",
+      "pub_url": "http://arxiv.org/abs/1505.06646v3"
+    },
+    {
+      "name": "Content-based Image Retrieval and the Semantic Gap in the Deep Learning\n  Era",
+      "cu_author": "Bj\u00f6rn Barz,Joachim Denzler",
+      "date": "2020-11-12",
+      "pub_url": "http://arxiv.org/abs/2011.06490v1"
+    },
+    {
+      "name": "Query Embedding Pruning for Dense Retrieval",
+      "cu_author": "Nicola Tonellotto,Craig Macdonald",
+      "date": "2021-08-23",
+      "pub_url": "http://arxiv.org/abs/2108.10341v1"
+    },
+    {
+      "name": "HLATR: Enhance Multi-stage Text Retrieval with Hybrid List Aware\n  Transformer Reranking",
+      "cu_author": "Yanzhao Zhang,Dingkun Long,Guangwei Xu,Pengjun Xie",
+      "date": "2022-05-21",
+      "pub_url": "http://arxiv.org/abs/2205.10569v1"
+    },
+    {
+      "name": "Normalized Contrastive Learning for Text-Video Retrieval",
+      "cu_author": "Yookoon Park,Mahmoud Azab,Bo Xiong,Seungwhan Moon,Florian Metze,Gourab Kundu,Kirmani Ahmed",
+      "date": "2022-11-30",
+      "pub_url": "http://arxiv.org/abs/2212.11790v1"
+    },
+    {
+      "name": "DAPR: A Benchmark on Document-Aware Passage Retrieval",
+      "cu_author": "Kexin Wang,Nils Reimers,Iryna Gurevych",
+      "date": "2023-05-23",
+      "pub_url": "http://arxiv.org/abs/2305.13915v1"
+    },
+    {
+      "name": "U-CREAT: Unsupervised Case Retrieval using Events extrAcTion",
+      "cu_author": "Abhinav Joshi,Akshat Sharma,Sai Kiran Tanikella,Ashutosh Modi",
+      "date": "2023-07-11",
+      "pub_url": "http://arxiv.org/abs/2307.05260v1"
+    },
+    {
+      "name": "From Relevance to Utility: Evidence Retrieval with Feedback for Fact\n  Verification",
+      "cu_author": "Hengran Zhang,Ruqing Zhang,Jiafeng Guo,Maarten de Rijke,Yixing Fan,Xueqi Cheng",
+      "date": "2023-10-18",
+      "pub_url": "http://arxiv.org/abs/2310.11675v2"
+    },
+    {
+      "name": "Considerations for Eye Tracking Experiments in Information Retrieval",
+      "cu_author": "Michael Segundo Ortiz",
+      "date": "2020-07-24",
+      "pub_url": "http://arxiv.org/abs/2007.12665v1"
+    },
+    {
+      "name": "Dynamic Model for Query-Document Expansion towards Improving Retrieval\n  Relevance",
+      "cu_author": "Onifade Olufade,Arise Abiola,Ogboo Chisom",
+      "date": "2021-03-18",
+      "pub_url": "http://arxiv.org/abs/2103.10474v1"
+    },
+    {
+      "name": "Large-Scale Knowledge Synthesis and Complex Information Retrieval from\n  Biomedical Documents",
+      "cu_author": "Shreya Saxena,Raj Sangani,Siva Prasad,Shubham Kumar,Mihir Athale,Rohan Awhad,Vishal Vaddina",
+      "date": "2023-02-14",
+      "pub_url": "http://arxiv.org/abs/2302.06854v1"
+    },
+    {
+      "name": "Information retrieval from a phoneme time series database",
+      "cu_author": "Radhakrishnan Nagarajan,Anand Nagarajan,Mariofanna Milanova",
+      "date": "2007-12-27",
+      "pub_url": "http://arxiv.org/abs/0712.4275v1"
+    },
+    {
+      "name": "A Comparison of Question Rewriting Methods for Conversational Passage\n  Retrieval",
+      "cu_author": "Svitlana Vakulenko,Nikos Voskarides,Zhucheng Tu,Shayne Longpre",
+      "date": "2021-01-19",
+      "pub_url": "http://arxiv.org/abs/2101.07382v1"
+    },
+    {
+      "name": "Cross-Lingual Training with Dense Retrieval for Document Retrieval",
+      "cu_author": "Peng Shi,Rui Zhang,He Bai,Jimmy Lin",
+      "date": "2021-09-03",
+      "pub_url": "http://arxiv.org/abs/2109.01628v1"
+    },
+    {
+      "name": "Deep Image Retrieval is not Robust to Label Noise",
+      "cu_author": "Stanislav Dereka,Ivan Karpukhin,Sergey Kolesnikov",
+      "date": "2022-05-23",
+      "pub_url": "http://arxiv.org/abs/2205.11195v1"
+    },
+    {
+      "name": "SilverRetriever: Advancing Neural Passage Retrieval for Polish Question\n  Answering",
+      "cu_author": "Piotr Rybak,Maciej Ogrodniczuk",
+      "date": "2023-09-15",
+      "pub_url": "http://arxiv.org/abs/2309.08469v1"
+    },
+    {
+      "name": "Using Local Optimality Criteria for Efficient Information Retrieval with\n  Redundant Information Filters",
+      "cu_author": "Neil C. Rowe",
+      "date": "1998-09-29",
+      "pub_url": "http://arxiv.org/abs/cs/9809121v1"
+    },
+    {
+      "name": "A Subjective Logic Formalisation of the Principle of Polyrepresentation\n  for Information Needs",
+      "cu_author": "Christina Lioma,Birger Larsen,Hinrich Sch\u00fctze,Peter Ingwersen",
+      "date": "2017-04-05",
+      "pub_url": "http://arxiv.org/abs/1704.01610v1"
+    },
+    {
+      "name": "A New Email Retrieval Ranking Approach",
+      "cu_author": "Samir AbdelRahman,Basma Hassan,Reem Bahgat",
+      "date": "2010-11-01",
+      "pub_url": "http://arxiv.org/abs/1011.0404v1"
+    },
+    {
+      "name": "Video Stream Retrieval of Unseen Queries using Semantic Memory",
+      "cu_author": "Spencer Cappallo,Thomas Mensink,Cees G. M. Snoek",
+      "date": "2016-12-20",
+      "pub_url": "http://arxiv.org/abs/1612.06753v1"
+    },
+    {
+      "name": "Almost Everywhere Generalized Phase Retrieval",
+      "cu_author": "Meng Huang,Yi Rong,Yang Wang,Zhiqiang Xu",
+      "date": "2019-09-19",
+      "pub_url": "http://arxiv.org/abs/1909.08874v1"
+    },
+    {
+      "name": "Using the Hammer Only on Nails: A Hybrid Method for Evidence Retrieval\n  for Question Answering",
+      "cu_author": "Zhengzhong Liang,Yiyun Zhao,Mihai Surdeanu",
+      "date": "2020-09-22",
+      "pub_url": "http://arxiv.org/abs/2009.10791v1"
+    },
+    {
+      "name": "Quotient Space-Based Keyword Retrieval in Sponsored Search",
+      "cu_author": "Yijiang Lian,Shuang Li,Chaobing Feng,YanFeng Zhu",
+      "date": "2021-05-26",
+      "pub_url": "http://arxiv.org/abs/2105.12371v1"
+    },
+    {
+      "name": "Mixed-modality Representation Learning and Pre-training for Joint\n  Table-and-Text Retrieval in OpenQA",
+      "cu_author": "Junjie Huang,Wanjun Zhong,Qian Liu,Ming Gong,Daxin Jiang,Nan Duan",
+      "date": "2022-10-11",
+      "pub_url": "http://arxiv.org/abs/2210.05197v1"
+    },
+    {
+      "name": "WYTIWYR: A User Intent-Aware Framework with Multi-modal Inputs for\n  Visualization Retrieval",
+      "cu_author": "Shishi Xiao,Yihan Hou,Cheng Jin,Wei Zeng",
+      "date": "2023-04-14",
+      "pub_url": "http://arxiv.org/abs/2304.06991v1"
+    },
+    {
+      "name": "SRTK: A Toolkit for Semantic-relevant Subgraph Retrieval",
+      "cu_author": "Yuanchun Shen",
+      "date": "2023-05-06",
+      "pub_url": "http://arxiv.org/abs/2305.04101v4"
+    },
+    {
+      "name": "End-to-end Knowledge Retrieval with Multi-modal Queries",
+      "cu_author": "Man Luo,Zhiyuan Fang,Tejas Gokhale,Yezhou Yang,Chitta Baral",
+      "date": "2023-06-01",
+      "pub_url": "http://arxiv.org/abs/2306.00424v1"
+    },
+    {
+      "name": "Neural-based Cross-modal Search and Retrieval of Artwork",
+      "cu_author": "Yan Gong,Georgina Cosma,Axel Finke",
+      "date": "2023-07-26",
+      "pub_url": "http://arxiv.org/abs/2307.14244v1"
+    },
+    {
+      "name": "Offline Pseudo Relevance Feedback for Efficient and Effective\n  Single-pass Dense Retrieval",
+      "cu_author": "Xueru Wen,Xiaoyang Chen,Xuanang Chen,Ben He,Le Sun",
+      "date": "2023-08-20",
+      "pub_url": "http://arxiv.org/abs/2308.10191v1"
+    },
+    {
+      "name": "Investigating the Influence of Legal Case Retrieval Systems on Users'\n  Decision Process",
+      "cu_author": "Beining Wang,Ruizhe Zhang,Yueyue Wu,Qingyao Ai,Min Zhang,Yiqun Liu",
+      "date": "2023-10-07",
+      "pub_url": "http://arxiv.org/abs/2310.04735v1"
+    },
+    {
+      "name": "A Study on the usage of Data Structures in Information Retrieval",
+      "cu_author": "V. R. Kanagavalli,G. Maheeja",
+      "date": "2016-02-25",
+      "pub_url": "http://arxiv.org/abs/1602.07799v1"
+    },
+    {
+      "name": "Sequential/Spatial, a Survey of Interactive Information Retrieval\n  Methods for Controlled Experimentation and Evaluation",
+      "cu_author": "Michael Segundo Ortz",
+      "date": "2019-11-04",
+      "pub_url": "http://arxiv.org/abs/1911.01318v1"
+    },
+    {
+      "name": "Health Information Retrieval -- State of the art report",
+      "cu_author": "Carla Teixeira Lopes",
+      "date": "2022-05-18",
+      "pub_url": "http://arxiv.org/abs/2205.09083v1"
+    },
+    {
+      "name": "More Robust Dense Retrieval with Contrastive Dual Learning",
+      "cu_author": "Yizhi Li,Zhenghao Liu,Chenyan Xiong,Zhiyuan Liu",
+      "date": "2021-07-16",
+      "pub_url": "http://arxiv.org/abs/2107.07773v1"
+    },
+    {
+      "name": "To Interpolate or not to Interpolate: PRF, Dense and Sparse Retrievers",
+      "cu_author": "Hang Li,Shuai Wang,Shengyao Zhuang,Ahmed Mourad,Xueguang Ma,Jimmy Lin,Guido Zuccon",
+      "date": "2022-04-30",
+      "pub_url": "http://arxiv.org/abs/2205.00235v1"
+    },
+    {
+      "name": "Augmented Embeddings for Custom Retrievals",
+      "cu_author": "Anirudh Khatry,Yasharth Bajpai,Priyanshu Gupta,Sumit Gulwani,Ashish Tiwari",
+      "date": "2023-10-09",
+      "pub_url": "http://arxiv.org/abs/2310.05380v1"
+    },
+    {
+      "name": "GAR-meets-RAG Paradigm for Zero-Shot Information Retrieval",
+      "cu_author": "Daman Arora,Anush Kini,Sayak Ray Chowdhury,Nagarajan Natarajan,Gaurav Sinha,Amit Sharma",
+      "date": "2023-10-31",
+      "pub_url": "http://arxiv.org/abs/2310.20158v1"
+    },
+    {
+      "name": "Leveraging LLMs for Synthesizing Training Data Across Many Languages in\n  Multilingual Dense Retrieval",
+      "cu_author": "Nandan Thakur,Jianmo Ni,Gustavo Hern\u00e1ndez \u00c1brego,John Wieting,Jimmy Lin,Daniel Cer",
+      "date": "2023-11-10",
+      "pub_url": "http://arxiv.org/abs/2311.05800v1"
+    },
+    {
+      "name": "The Capacity of Robust Private Information Retrieval with Colluding\n  Databases",
+      "cu_author": "Hua Sun,Syed A. Jafar",
+      "date": "2016-05-02",
+      "pub_url": "http://arxiv.org/abs/1605.00635v1"
+    },
+    {
+      "name": "An Integrated Search Framework for Leveraging the Knowledge-Based Web\n  Ecosystem",
+      "cu_author": "Dengya Zhu,Shastri Lakshman Nimmagadda,Torsten Reiners,Amit Rudra",
+      "date": "2020-12-10",
+      "pub_url": "http://arxiv.org/abs/2012.05397v1"
+    },
+    {
+      "name": "Research on Cross-media Science and Technology Information Data\n  Retrieval",
+      "cu_author": "Yang Jiang,Zhe Xue,Ang Li",
+      "date": "2022-04-11",
+      "pub_url": "http://arxiv.org/abs/2204.04887v2"
+    },
+    {
+      "name": "GNN-encoder: Learning a Dual-encoder Architecture via Graph Neural\n  Networks for Dense Passage Retrieval",
+      "cu_author": "Jiduan Liu,Jiahao Liu,Yang Yang,Jingang Wang,Wei Wu,Dongyan Zhao,Rui Yan",
+      "date": "2022-04-18",
+      "pub_url": "http://arxiv.org/abs/2204.08241v2"
+    },
+    {
+      "name": "Decomposing Complex Queries for Tip-of-the-tongue Retrieval",
+      "cu_author": "Kevin Lin,Kyle Lo,Joseph E. Gonzalez,Dan Klein",
+      "date": "2023-05-24",
+      "pub_url": "http://arxiv.org/abs/2305.15053v1"
+    },
+    {
+      "name": "Prompt-based Effective Input Reformulation for Legal Case Retrieval",
+      "cu_author": "Yanran Tang,Ruihong Qiu,Xue Li",
+      "date": "2023-09-06",
+      "pub_url": "http://arxiv.org/abs/2309.02962v1"
+    },
+    {
+      "name": "Effects of Stop Words Elimination for Arabic Information Retrieval: A\n  Comparative Study",
+      "cu_author": "Ibrahim Abu El-Khair",
+      "date": "2017-02-07",
+      "pub_url": "http://arxiv.org/abs/1702.01925v1"
+    },
+    {
+      "name": "A Feature Analysis for Multimodal News Retrieval",
+      "cu_author": "Golsa Tahmasebzadeh,Sherzod Hakimov,Eric M\u00fcller-Budack,Ralph Ewerth",
+      "date": "2020-07-13",
+      "pub_url": "http://arxiv.org/abs/2007.06390v2"
+    },
+    {
+      "name": "Information Retrieval from the Digitized Books",
+      "cu_author": "Riya Gupta,C. V. Jawahar",
+      "date": "2022-12-02",
+      "pub_url": "http://arxiv.org/abs/2212.00999v1"
+    },
+    {
+      "name": "Name Searching and Information Retrieval",
+      "cu_author": "Paul Thompson,Christopher C. Dozier",
+      "date": "1997-06-12",
+      "pub_url": "http://arxiv.org/abs/cmp-lg/9706017v2"
+    },
+    {
+      "name": "A New Ranking Principle for Multimedia Information Retrieval",
+      "cu_author": "Martin Wechsler,Peter Schauble",
+      "date": "1999-02-11",
+      "pub_url": "http://arxiv.org/abs/cs/9902023v1"
+    },
+    {
+      "name": "Demonstrating a Service-Enhanced Retrieval System",
+      "cu_author": "Philipp Schaer,Philipp Mayr,Peter Mutschke",
+      "date": "2010-09-25",
+      "pub_url": "http://arxiv.org/abs/1009.5003v1"
+    },
+    {
+      "name": "Bibliometric-enhanced Retrieval Models for Big Scholarly Information\n  Systems",
+      "cu_author": "Philipp Mayr,Peter Mutschke",
+      "date": "2013-09-30",
+      "pub_url": "http://arxiv.org/abs/1309.7949v1"
+    },
+    {
+      "name": "Content Based Image Indexing and Retrieval",
+      "cu_author": "Avinash N Bhute,B. B. Meshram",
+      "date": "2014-01-08",
+      "pub_url": "http://arxiv.org/abs/1401.1742v1"
+    },
+    {
+      "name": "Table2Vec: Neural Word and Entity Embeddings for Table Population and\n  Retrieval",
+      "cu_author": "Li Deng,Shuo Zhang,Krisztian Balog",
+      "date": "2019-05-31",
+      "pub_url": "http://arxiv.org/abs/1906.00041v1"
+    },
+    {
+      "name": "Retrieval Augmentation for T5 Re-ranker using External Sources",
+      "cu_author": "Kai Hui,Tao Chen,Zhen Qin,Honglei Zhuang,Fernando Diaz,Mike Bendersky,Don Metzler",
+      "date": "2022-10-11",
+      "pub_url": "http://arxiv.org/abs/2210.05145v1"
+    },
+    {
+      "name": "Statute-enhanced lexical retrieval of court cases for COLIEE 2022",
+      "cu_author": "Tobias Fink,Gabor Recski,Wojciech Kusa,Allan Hanbury",
+      "date": "2023-04-17",
+      "pub_url": "http://arxiv.org/abs/2304.08188v1"
+    },
+    {
+      "name": "Learning Efficient Representations for Image-Based Patent Retrieval",
+      "cu_author": "Hongsong Wang,Yuqi Zhang",
+      "date": "2023-08-26",
+      "pub_url": "http://arxiv.org/abs/2308.13749v1"
+    },
+    {
+      "name": "A natural language interface to a graph-based bibliographic information\n  retrieval system",
+      "cu_author": "Yongjun Zhu,Erjia Yan,Il-Yeol Song",
+      "date": "2016-12-10",
+      "pub_url": "http://arxiv.org/abs/1612.03231v1"
+    },
+    {
+      "name": "Tip of the Tongue Known-Item Retrieval: A Case Study in Movie\n  Identification",
+      "cu_author": "Jaime Arguello,Adam Ferguson,Emery Fine,Bhaskar Mitra,Hamed Zamani,Fernando Diaz",
+      "date": "2021-01-18",
+      "pub_url": "http://arxiv.org/abs/2101.07124v1"
+    },
+    {
+      "name": "A Qualitative Representation and Similarity Measurement Method in\n  Geographic Information Retrieval",
+      "cu_author": "Yong Gao,Lei Liu,Xing Lin,Yu Liu",
+      "date": "2013-11-19",
+      "pub_url": "http://arxiv.org/abs/1311.4644v1"
+    },
+    {
+      "name": "Don't forget private retrieval: distributed private similarity search\n  for large language models",
+      "cu_author": "Guy Zyskind,Tobin South,Alex Pentland",
+      "date": "2023-11-21",
+      "pub_url": "http://arxiv.org/abs/2311.12955v1"
+    },
+    {
+      "name": "The model of information retrieval based on the theory of hypercomplex\n  numerical systems",
+      "cu_author": "D. V. Lande,Ya. A. Kalinovskiy,Yu. E. Boyarinova",
+      "date": "2012-05-14",
+      "pub_url": "http://arxiv.org/abs/1205.3031v1"
+    },
+    {
+      "name": "Quantum contextuality in classical information retrieval",
+      "cu_author": "Roman Zapatrin",
+      "date": "2012-05-25",
+      "pub_url": "http://arxiv.org/abs/1205.5632v1"
+    },
+    {
+      "name": "Enhancing Invenio Digital Library With An External Relevance Ranking\n  Engine",
+      "cu_author": "Patrick O. Glauner",
+      "date": "2012-11-04",
+      "pub_url": "http://arxiv.org/abs/1211.0689v1"
+    },
+    {
+      "name": "A Generalized Framework for Ontology-Based Information Retrieval\n  Application to a public-transportation system",
+      "cu_author": "Amir Zidi,Mourad Abed",
+      "date": "2014-09-02",
+      "pub_url": "http://arxiv.org/abs/1409.0921v1"
+    },
+    {
+      "name": "Scientometrics and Information Retrieval - weak-links revitalized",
+      "cu_author": "Philipp Mayr,Andrea Scharnhorst",
+      "date": "2014-11-06",
+      "pub_url": "http://arxiv.org/abs/1411.1635v1"
+    },
+    {
+      "name": "Toward Word Embedding for Personalized Information Retrieval",
+      "cu_author": "Nawal Ould-Amer,Philippe Mulhem,Mathias Gery",
+      "date": "2016-06-22",
+      "pub_url": "http://arxiv.org/abs/1606.06991v1"
+    },
+    {
+      "name": "Evaluation of Information Retrieval Systems Using Structural Equation\n  Modelling",
+      "cu_author": "Massimo Melucci",
+      "date": "2018-06-25",
+      "pub_url": "http://arxiv.org/abs/1806.09317v1"
+    },
+    {
+      "name": "Proceedings of the 17th Dutch-Belgian Information Retrieval Workshop",
+      "cu_author": "Alex Brandsen,Anne Dirkson,Wessel Kraaij,Wout Lamers,Suzan Verberne,Hugo de Vos,Gineke Wiggers",
+      "date": "2018-12-11",
+      "pub_url": "http://arxiv.org/abs/1812.04265v1"
+    },
+    {
+      "name": "Concept Based vs. Pseudo Relevance Feedback Performance Evaluation for\n  Information Retrieval System",
+      "cu_author": "Mohammed El Amine Abderrahim",
+      "date": "2014-03-18",
+      "pub_url": "http://arxiv.org/abs/1403.4362v1"
+    },
+    {
+      "name": "Implicit Negative Feedback in Clinical Information Retrieval",
+      "cu_author": "Lorenz Kuhn,Carsten Eickhoff",
+      "date": "2016-07-12",
+      "pub_url": "http://arxiv.org/abs/1607.03296v1"
+    },
+    {
+      "name": "A Comparison of Information Retrieval Techniques for Detecting Source\n  Code Plagiarism",
+      "cu_author": "Vasishtha Sriram Jayapati,Ajay Venkitaraman",
+      "date": "2019-02-06",
+      "pub_url": "http://arxiv.org/abs/1902.02407v1"
+    },
+    {
+      "name": "Report on the 8th International Workshop on Bibliometric-enhanced\n  Information Retrieval (BIR 2019)",
+      "cu_author": "Guillaume Cabanac,Ingo Frommholz,Philipp Mayr",
+      "date": "2019-09-11",
+      "pub_url": "http://arxiv.org/abs/1909.04954v1"
+    },
+    {
+      "name": "Bibliometric-enhanced Information Retrieval 10th Anniversary Workshop\n  Edition",
+      "cu_author": "Guillaume Cabanac,Ingo Frommholz,Philipp Mayr",
+      "date": "2020-01-20",
+      "pub_url": "http://arxiv.org/abs/2001.10336v1"
+    },
+    {
+      "name": "Patapasco: A Python Framework for Cross-Language Information Retrieval\n  Experiments",
+      "cu_author": "Cash Costello,Eugene Yang,Dawn Lawrie,James Mayfield",
+      "date": "2022-01-24",
+      "pub_url": "http://arxiv.org/abs/2201.09996v1"
+    },
+    {
+      "name": "Beyond CO2 Emissions: The Overlooked Impact of Water Consumption of\n  Information Retrieval Models",
+      "cu_author": "Guido Zuccon,Harrisen Scells,Shengyao Zhuang",
+      "date": "2023-06-29",
+      "pub_url": "http://arxiv.org/abs/2306.16668v1"
+    },
+    {
+      "name": "Where Does the Performance Improvement Come From? -- A Reproducibility\n  Concern about Image-Text Retrieval",
+      "cu_author": "Jun Rao,Fei Wang,Liang Ding,Shuhan Qi,Yibing Zhan,Weifeng Liu,Dacheng Tao",
+      "date": "2022-03-08",
+      "pub_url": "http://arxiv.org/abs/2203.03853v3"
+    },
+    {
+      "name": "A Line in the Sand: Recommendation or Ad-hoc Retrieval?",
+      "cu_author": "Surya Kallumadi,Bhaskar Mitra,Tereza Iofciu",
+      "date": "2018-07-21",
+      "pub_url": "http://arxiv.org/abs/1807.08061v1"
+    },
+    {
+      "name": "An Effective Pipeline for a Real-world Clothes Retrieval System",
+      "cu_author": "Yang-Ho Ji,HeeJae Jun,Insik Kim,Jongtack Kim,Youngjoon Kim,Byungsoo Ko,Hyong-Keun Kook,Jingeun Lee,Sangwon Lee,Sanghyuk Park",
+      "date": "2020-05-26",
+      "pub_url": "http://arxiv.org/abs/2005.12739v1"
+    },
+    {
+      "name": "Self-supervised Video Retrieval Transformer Network",
+      "cu_author": "Xiangteng He,Yulin Pan,Mingqian Tang,Yiliang Lv",
+      "date": "2021-04-16",
+      "pub_url": "http://arxiv.org/abs/2104.07993v1"
+    },
+    {
+      "name": "Writing by Memorizing: Hierarchical Retrieval-based Medical Report\n  Generation",
+      "cu_author": "Xingyi Yang,Muchao Ye,Quanzeng You,Fenglong Ma",
+      "date": "2021-05-25",
+      "pub_url": "http://arxiv.org/abs/2106.06471v1"
+    },
+    {
+      "name": "Out-of-Domain Semantics to the Rescue! Zero-Shot Hybrid Retrieval Models",
+      "cu_author": "Tao Chen,Mingyang Zhang,Jing Lu,Michael Bendersky,Marc Najork",
+      "date": "2022-01-25",
+      "pub_url": "http://arxiv.org/abs/2201.10582v1"
+    },
+    {
+      "name": "Dimension Reduction for Efficient Dense Retrieval via Conditional\n  Autoencoder",
+      "cu_author": "Zhenghao Liu,Han Zhang,Chenyan Xiong,Zhiyuan Liu,Yu Gu,Xiaohua Li",
+      "date": "2022-05-06",
+      "pub_url": "http://arxiv.org/abs/2205.03284v2"
+    },
+    {
+      "name": "UnifieR: A Unified Retriever for Large-Scale Retrieval",
+      "cu_author": "Tao Shen,Xiubo Geng,Chongyang Tao,Can Xu,Guodong Long,Kai Zhang,Daxin Jiang",
+      "date": "2022-05-23",
+      "pub_url": "http://arxiv.org/abs/2205.11194v2"
+    },
+    {
+      "name": "Parameter-Efficient Prompt Tuning Makes Generalized and Calibrated\n  Neural Text Retrievers",
+      "cu_author": "Weng Lam Tam,Xiao Liu,Kaixuan Ji,Lilong Xue,Xingjian Zhang,Yuxiao Dong,Jiahua Liu,Maodi Hu,Jie Tang",
+      "date": "2022-07-14",
+      "pub_url": "http://arxiv.org/abs/2207.07087v1"
+    },
+    {
+      "name": "Ultron: An Ultimate Retriever on Corpus with a Model-based Indexer",
+      "cu_author": "Yujia Zhou,Jing Yao,Zhicheng Dou,Ledell Wu,Peitian Zhang,Ji-Rong Wen",
+      "date": "2022-08-19",
+      "pub_url": "http://arxiv.org/abs/2208.09257v1"
+    },
+    {
+      "name": "Universal Vision-Language Dense Retrieval: Learning A Unified\n  Representation Space for Multi-Modal Retrieval",
+      "cu_author": "Zhenghao Liu,Chenyan Xiong,Yuanhuiyi Lv,Zhiyuan Liu,Ge Yu",
+      "date": "2022-09-01",
+      "pub_url": "http://arxiv.org/abs/2209.00179v2"
+    },
+    {
+      "name": "HYRR: Hybrid Infused Reranking for Passage Retrieval",
+      "cu_author": "Jing Lu,Keith Hall,Ji Ma,Jianmo Ni",
+      "date": "2022-12-20",
+      "pub_url": "http://arxiv.org/abs/2212.10528v1"
+    },
+    {
+      "name": "Multi-hop Evidence Retrieval for Cross-document Relation Extraction",
+      "cu_author": "Keming Lu,I-Hung Hsu,Wenxuan Zhou,Mingyu Derek Ma,Muhao Chen",
+      "date": "2022-12-21",
+      "pub_url": "http://arxiv.org/abs/2212.10786v2"
+    },
+    {
+      "name": "X-TRA: Improving Chest X-ray Tasks with Cross-Modal Retrieval\n  Augmentation",
+      "cu_author": "Tom van Sonsbeek,Marcel Worring",
+      "date": "2023-02-22",
+      "pub_url": "http://arxiv.org/abs/2302.11352v1"
+    },
+    {
+      "name": "AToMiC: An Image/Text Retrieval Test Collection to Support Multimedia\n  Content Creation",
+      "cu_author": "Jheng-Hong Yang,Carlos Lassance,Rafael Sampaio de Rezende,Krishna Srinivasan,Miriam Redi,St\u00e9phane Clinchant,Jimmy Lin",
+      "date": "2023-04-04",
+      "pub_url": "http://arxiv.org/abs/2304.01961v1"
+    },
+    {
+      "name": "Read it Twice: Towards Faithfully Interpretable Fact Verification by\n  Revisiting Evidence",
+      "cu_author": "Xuming Hu,Zhaochen Hong,Zhijiang Guo,Lijie Wen,Philip S. Yu",
+      "date": "2023-05-02",
+      "pub_url": "http://arxiv.org/abs/2305.03507v1"
+    },
+    {
+      "name": "Multi-Grained Knowledge Retrieval for End-to-End Task-Oriented Dialog",
+      "cu_author": "Fanqi Wan,Weizhou Shen,Ke Yang,Xiaojun Quan,Wei Bi",
+      "date": "2023-05-17",
+      "pub_url": "http://arxiv.org/abs/2305.10149v1"
+    },
+    {
+      "name": "Augmentation-Adapted Retriever Improves Generalization of Language\n  Models as Generic Plug-In",
+      "cu_author": "Zichun Yu,Chenyan Xiong,Shi Yu,Zhiyuan Liu",
+      "date": "2023-05-27",
+      "pub_url": "http://arxiv.org/abs/2305.17331v1"
+    },
+    {
+      "name": "Auto Search Indexer for End-to-End Document Retrieval",
+      "cu_author": "Tianchi Yang,Minghui Song,Zihan Zhang,Haizhen Huang,Weiwei Deng,Feng Sun,Qi Zhang",
+      "date": "2023-10-19",
+      "pub_url": "http://arxiv.org/abs/2310.12455v2"
+    },
+    {
+      "name": "Improving Performance Of English-Hindi Cross Language Information\n  Retrieval Using Transliteration Of Query Terms",
+      "cu_author": "Saurabh Varshney,Jyoti Bajpai",
+      "date": "2014-01-15",
+      "pub_url": "http://arxiv.org/abs/1401.3510v1"
+    },
+    {
+      "name": "Retrieval of Experiments by Efficient Estimation of Marginal Likelihood",
+      "cu_author": "Sohan Seth,John Shawe-Taylor,Samuel Kaski",
+      "date": "2014-02-19",
+      "pub_url": "http://arxiv.org/abs/1402.4653v1"
+    },
+    {
+      "name": "POI Semantic Model with a Deep Convolutional Structure",
+      "cu_author": "Ji Zhao,Meiyu Yu,Huan Chen,Boning Li,Lingyu Zhang,Qi Song,Li Ma,Hua Chai,Jieping Ye",
+      "date": "2019-03-18",
+      "pub_url": "http://arxiv.org/abs/1903.07279v1"
+    },
+    {
+      "name": "New Results on the Storage-Retrieval Tradeoff in Private Information\n  Retrieval Systems",
+      "cu_author": "Tao Guo,Ruida Zhou,Chao Tian",
+      "date": "2020-08-03",
+      "pub_url": "http://arxiv.org/abs/2008.00960v1"
+    },
+    {
+      "name": "Neural ranking models for document retrieval",
+      "cu_author": "Mohamed Trabelsi,Zhiyu Chen,Brian D. Davison,Jeff Heflin",
+      "date": "2021-02-23",
+      "pub_url": "http://arxiv.org/abs/2102.11903v2"
+    },
+    {
+      "name": "The Cross-Lingual Arabic Information REtrieval (CLAIRE) System",
+      "cu_author": "Zhizhong Chen,Carsten Eickhoff",
+      "date": "2021-07-29",
+      "pub_url": "http://arxiv.org/abs/2107.13751v1"
+    },
+    {
+      "name": "A framework for contextual information retrieval from the WWW",
+      "cu_author": "Dilip K. Limbu,Andy M. Connor,Stephen G. MacDonell",
+      "date": "2014-07-23",
+      "pub_url": "http://arxiv.org/abs/1407.6100v1"
+    },
+    {
+      "name": "Marginalizing over the PageRank Damping Factor",
+      "cu_author": "Christian Bauckhage",
+      "date": "2014-08-30",
+      "pub_url": "http://arxiv.org/abs/1409.0104v1"
+    },
+    {
+      "name": "Evolutionary algorithm based adaptive navigation in information\n  retrieval interfaces",
+      "cu_author": "Dmytro Filatov,Taras Filatov",
+      "date": "2015-02-19",
+      "pub_url": "http://arxiv.org/abs/1502.05535v1"
+    },
+    {
+      "name": "Proceedings of FACTS-IR 2019",
+      "cu_author": "Alexandra Olteanu,Jean Garcia-Gathright,Maarten de Rijke,Michael D. Ekstrand",
+      "date": "2019-07-12",
+      "pub_url": "http://arxiv.org/abs/1907.05755v1"
+    },
+    {
+      "name": "A toy model of information retrieval system based on quantum probability",
+      "cu_author": "Roman Zapatrin",
+      "date": "2013-05-23",
+      "pub_url": "http://arxiv.org/abs/1305.5330v1"
+    },
+    {
+      "name": "Learning Term Weights for Ad-hoc Retrieval",
+      "cu_author": "B. Piwowarski",
+      "date": "2016-06-14",
+      "pub_url": "http://arxiv.org/abs/1606.04223v1"
+    },
+    {
+      "name": "The minimal measurement number problem in phase retrieval: a review of\n  recent developments",
+      "cu_author": "Zhiqiang Xu",
+      "date": "2017-07-05",
+      "pub_url": "http://arxiv.org/abs/1707.01205v1"
+    },
+    {
+      "name": "Neural document expansion for ad-hoc information retrieval",
+      "cu_author": "Cheng Tang,Andrew Arnold",
+      "date": "2020-12-27",
+      "pub_url": "http://arxiv.org/abs/2012.14005v1"
+    },
+    {
+      "name": "Dense Hierarchical Retrieval for Open-Domain Question Answering",
+      "cu_author": "Ye Liu,Kazuma Hashimoto,Yingbo Zhou,Semih Yavuz,Caiming Xiong,Philip S. Yu",
+      "date": "2021-10-28",
+      "pub_url": "http://arxiv.org/abs/2110.15439v1"
+    },
+    {
+      "name": "TABi: Type-Aware Bi-Encoders for Open-Domain Entity Retrieval",
+      "cu_author": "Megan Leszczynski,Daniel Y. Fu,Mayee F. Chen,Christopher R\u00e9",
+      "date": "2022-04-18",
+      "pub_url": "http://arxiv.org/abs/2204.08173v1"
+    },
+    {
+      "name": "Generalized phase retrieval : measurement number, matrix recovery and\n  beyond",
+      "cu_author": "Yang Wang,Zhiqiang Xu",
+      "date": "2016-05-25",
+      "pub_url": "http://arxiv.org/abs/1605.08034v3"
+    },
+    {
+      "name": "End-to-End Training of Multi-Document Reader and Retriever for\n  Open-Domain Question Answering",
+      "cu_author": "Devendra Singh Sachan,Siva Reddy,William Hamilton,Chris Dyer,Dani Yogatama",
+      "date": "2021-06-09",
+      "pub_url": "http://arxiv.org/abs/2106.05346v2"
+    },
+    {
+      "name": "Multi-CPR: A Multi Domain Chinese Dataset for Passage Retrieval",
+      "cu_author": "Dingkun Long,Qiong Gao,Kuan Zou,Guangwei Xu,Pengjun Xie,Ruijie Guo,Jian Xu,Guanjun Jiang,Luxi Xing,Ping Yang",
+      "date": "2022-03-07",
+      "pub_url": "http://arxiv.org/abs/2203.03367v2"
+    },
+    {
+      "name": "Bridging the Gap Between Indexing and Retrieval for Differentiable\n  Search Index with Query Generation",
+      "cu_author": "Shengyao Zhuang,Houxing Ren,Linjun Shou,Jian Pei,Ming Gong,Guido Zuccon,Daxin Jiang",
+      "date": "2022-06-21",
+      "pub_url": "http://arxiv.org/abs/2206.10128v3"
+    },
+    {
+      "name": "Query Performance Prediction: From Ad-hoc to Conversational Search",
+      "cu_author": "Chuan Meng,Negar Arabzadeh,Mohammad Aliannejadi,Maarten de Rijke",
+      "date": "2023-05-18",
+      "pub_url": "http://arxiv.org/abs/2305.10923v1"
+    },
+    {
+      "name": "Caseformer: Pre-training for Legal Case Retrieval",
+      "cu_author": "Weihang Su,Qingyao Ai,Yueyue Wu,Yixiao Ma,Haitao Li,Yiqun Liu",
+      "date": "2023-11-01",
+      "pub_url": "http://arxiv.org/abs/2311.00333v1"
+    },
+    {
+      "name": "The Role of Reusable and Single-Use Side Information in Private\n  Information Retrieval",
+      "cu_author": "Anoosheh Heidarzadeh,Alex Sprintson",
+      "date": "2022-01-27",
+      "pub_url": "http://arxiv.org/abs/2201.11605v1"
+    },
+    {
+      "name": "Source Code Retrieval Using Sequence Based Similarity",
+      "cu_author": "Yoshihisa Udagawa",
+      "date": "2013-08-16",
+      "pub_url": "http://arxiv.org/abs/1308.3554v1"
+    },
+    {
+      "name": "A Study of MatchPyramid Models on Ad-hoc Retrieval",
+      "cu_author": "Liang Pang,Yanyan Lan,Jiafeng Guo,Jun Xu,Xueqi Cheng",
+      "date": "2016-06-15",
+      "pub_url": "http://arxiv.org/abs/1606.04648v1"
+    },
+    {
+      "name": "ZSCRGAN: A GAN-based Expectation Maximization Model for Zero-Shot\n  Retrieval of Images from Textual Descriptions",
+      "cu_author": "Anurag Roy,Vinay Kumar Verma,Kripabandhu Ghosh,Saptarshi Ghosh",
+      "date": "2020-07-23",
+      "pub_url": "http://arxiv.org/abs/2007.12212v3"
+    },
+    {
+      "name": "Soft Seeded SSL Graphs for Unsupervised Semantic Similarity-based\n  Retrieval",
+      "cu_author": "Avikalp Srivastava,Madhav Datt",
+      "date": "2017-12-15",
+      "pub_url": "http://arxiv.org/abs/1712.05574v1"
+    },
+    {
+      "name": "Conjugate Phase Retrieval in Paley-Wiener Space",
+      "cu_author": "Chun-Kit Lai,Friedrich Littmann,Eric Weber",
+      "date": "2019-10-28",
+      "pub_url": "http://arxiv.org/abs/1910.12975v1"
+    },
+    {
+      "name": "Open-Retrieval Conversational Question Answering",
+      "cu_author": "Chen Qu,Liu Yang,Cen Chen,Minghui Qiu,W. Bruce Croft,Mohit Iyyer",
+      "date": "2020-05-22",
+      "pub_url": "http://arxiv.org/abs/2005.11364v1"
+    },
+    {
+      "name": "Not All Relevance Scores are Equal: Efficient Uncertainty and\n  Calibration Modeling for Deep Retrieval Models",
+      "cu_author": "Daniel Cohen,Bhaskar Mitra,Oleg Lesota,Navid Rekabsaz,Carsten Eickhoff",
+      "date": "2021-05-10",
+      "pub_url": "http://arxiv.org/abs/2105.04651v1"
+    },
+    {
+      "name": "Dealing with Typos for BERT-based Passage Retrieval and Ranking",
+      "cu_author": "Shengyao Zhuang,Guido Zuccon",
+      "date": "2021-08-27",
+      "pub_url": "http://arxiv.org/abs/2108.12139v2"
+    },
+    {
+      "name": "Improving Query Representations for Dense Retrieval with Pseudo\n  Relevance Feedback",
+      "cu_author": "HongChien Yu,Chenyan Xiong,Jamie Callan",
+      "date": "2021-08-30",
+      "pub_url": "http://arxiv.org/abs/2108.13454v1"
+    },
+    {
+      "name": "Transfer Learning Approaches for Building Cross-Language Dense Retrieval\n  Models",
+      "cu_author": "Suraj Nair,Eugene Yang,Dawn Lawrie,Kevin Duh,Paul McNamee,Kenton Murray,James Mayfield,Douglas W. Oard",
+      "date": "2022-01-20",
+      "pub_url": "http://arxiv.org/abs/2201.08471v1"
+    },
+    {
+      "name": "TripJudge: A Relevance Judgement Test Collection for TripClick Health\n  Retrieval",
+      "cu_author": "Sophia Althammer,Sebastian Hofst\u00e4tter,Suzan Verberne,Allan Hanbury",
+      "date": "2022-08-14",
+      "pub_url": "http://arxiv.org/abs/2208.06936v1"
+    },
+    {
+      "name": "The least-used key selection method for information retrieval in\n  large-scale Cloud-based service repositories",
+      "cu_author": "Jiayan Gu,Ashiq Anjum,Yan Wu,Lu Liu,John Panneerselvam,Yao Lu,Bo Yuan",
+      "date": "2022-08-16",
+      "pub_url": "http://arxiv.org/abs/2208.07955v1"
+    },
+    {
+      "name": "Bridging the Gap between Local Semantic Concepts and Bag of Visual Words\n  for Natural Scene Image Retrieval",
+      "cu_author": "Yousef Alqasrawi",
+      "date": "2022-10-17",
+      "pub_url": "http://arxiv.org/abs/2210.08875v1"
+    },
+    {
+      "name": "Dialogue-to-Video Retrieval",
+      "cu_author": "Chenyang Lyu,Manh-Duy Nguyen,Van-Tu Ninh,Liting Zhou,Cathal Gurrin,Jennifer Foster",
+      "date": "2023-03-23",
+      "pub_url": "http://arxiv.org/abs/2303.16761v1"
+    },
+    {
+      "name": "Delving into E-Commerce Product Retrieval with Vision-Language\n  Pre-training",
+      "cu_author": "Xiaoyang Zheng,Fuyu Lv,Zilong Wang,Qingwen Liu,Xiaoyi Zeng",
+      "date": "2023-04-10",
+      "pub_url": "http://arxiv.org/abs/2304.04377v2"
+    },
+    {
+      "name": "Divide &amp; Conquer for Entailment-aware Multi-hop Evidence Retrieval",
+      "cu_author": "Fan Luo,Mihai Surdeanu",
+      "date": "2023-11-05",
+      "pub_url": "http://arxiv.org/abs/2311.02616v1"
+    },
+    {
+      "name": "A Comparative Analysis of Retrievability and PageRank Measures",
+      "cu_author": "Aman Sinha,Priyanshu Raj Mall,Dwaipayan Roy",
+      "date": "2023-11-17",
+      "pub_url": "http://arxiv.org/abs/2311.10348v1"
+    },
+    {
+      "name": "Commentary on Quantum-Inspired Information Retrieval",
+      "cu_author": "Elham Ashoori,Terry Rudolph",
+      "date": "2018-09-15",
+      "pub_url": "http://arxiv.org/abs/1809.05685v1"
+    },
+    {
+      "name": "Relevance as Deduction: A Logical View of Information Retrieval",
+      "cu_author": "Gianni Amati,Konstantinos Georgatos",
+      "date": "2000-07-26",
+      "pub_url": "http://arxiv.org/abs/cs/0007041v1"
+    },
+    {
+      "name": "Improving Biomedical Information Retrieval with Neural Retrievers",
+      "cu_author": "Man Luo,Arindam Mitra,Tejas Gokhale,Chitta Baral",
+      "date": "2022-01-19",
+      "pub_url": "http://arxiv.org/abs/2201.07745v1"
+    },
+    {
+      "name": "Memento Ludi: Information Retrieval from a Game-Theoretic Perspective",
+      "cu_author": "George Parfionov,Rom\u00e0n Zapatrin",
+      "date": "2009-05-20",
+      "pub_url": "http://arxiv.org/abs/0905.3356v1"
+    },
+    {
+      "name": "Semantic Modelling with Long-Short-Term Memory for Information Retrieval",
+      "cu_author": "H. Palangi,L. Deng,Y. Shen,J. Gao,X. He,J. Chen,X. Song,R. Ward",
+      "date": "2014-12-20",
+      "pub_url": "http://arxiv.org/abs/1412.6629v3"
+    },
+    {
+      "name": "Preliminary Experiments using Subjective Logic for the\n  Polyrepresentation of Information Needs",
+      "cu_author": "Christina Lioma,Birger Larsen,Peter Ingwersen",
+      "date": "2017-04-05",
+      "pub_url": "http://arxiv.org/abs/1704.01603v1"
+    },
+    {
+      "name": "Part of Speech Based Term Weighting for Information Retrieval",
+      "cu_author": "Christina Lioma,Roi Blanco",
+      "date": "2017-04-05",
+      "pub_url": "http://arxiv.org/abs/1704.01617v1"
+    },
+    {
+      "name": "WIKIR: A Python toolkit for building a large-scale Wikipedia-based\n  English Information Retrieval Dataset",
+      "cu_author": "Jibril Frej,Didier Schwab,Jean-Pierre Chevallet",
+      "date": "2019-12-04",
+      "pub_url": "http://arxiv.org/abs/1912.01901v4"
+    },
+    {
+      "name": "Quantum Private Information Retrieval from Coded and Colluding Servers",
+      "cu_author": "Matteo Allaix,Lukas Holzbaur,Tefjol Pllaha,Camilla Hollanti",
+      "date": "2020-01-16",
+      "pub_url": "http://arxiv.org/abs/2001.05883v3"
+    },
+    {
+      "name": "Adapting LLMs for Efficient, Personalized Information Retrieval: Methods\n  and Implications",
+      "cu_author": "Samira Ghodratnama,Mehrdad Zakershahrak",
+      "date": "2023-11-21",
+      "pub_url": "http://arxiv.org/abs/2311.12287v1"
+    },
+    {
+      "name": "An Axiomatic Study of Query Terms Order in Ad-hoc Retrieval",
+      "cu_author": "Ayyoob Imani,Amir Vakili,Ali Montazer,Azadeh Shakery",
+      "date": "2018-11-08",
+      "pub_url": "http://arxiv.org/abs/1811.03569v1"
+    },
+    {
+      "name": "Pseudo-Relevance Feedback for Multiple Representation Dense Retrieval",
+      "cu_author": "Xiao Wang,Craig Macdonald,Nicola Tonellotto,Iadh Ounis",
+      "date": "2021-06-21",
+      "pub_url": "http://arxiv.org/abs/2106.11251v2"
+    },
+    {
+      "name": "Information retrieval in Current Research Information Systems",
+      "cu_author": "Andrei Lopatenko",
+      "date": "2001-10-10",
+      "pub_url": "http://arxiv.org/abs/cs/0110026v1"
+    },
+    {
+      "name": "Using Mobile Agents for Information Retrival in B2B Systems",
+      "cu_author": "Felicia Florentina Giza,Cristina Elena Turcu,Ovidiu Andrei Schipor",
+      "date": "2014-06-02",
+      "pub_url": "http://arxiv.org/abs/1406.0296v1"
+    },
+    {
+      "name": "Natural language processing for word sense disambiguation and\n  information extraction",
+      "cu_author": "K. R. Chowdhary",
+      "date": "2020-04-05",
+      "pub_url": "http://arxiv.org/abs/2004.02256v1"
+    },
+    {
+      "name": "Learning about Potential Users of Collaborative Information Retrieval\n  Systems",
+      "cu_author": "Madhu Reddy,Bernard J. Jansen",
+      "date": "2009-08-05",
+      "pub_url": "http://arxiv.org/abs/0908.0764v1"
+    },
+    {
+      "name": "Ontology Based Query Expansion Using Word Sense Disambiguation",
+      "cu_author": "M. Barathi,S. Valli",
+      "date": "2010-03-07",
+      "pub_url": "http://arxiv.org/abs/1003.1460v1"
+    },
+    {
+      "name": "Information Retrieval in Intelligent Systems: Current Scenario &amp; Issues",
+      "cu_author": "Sudhir Ahuja,Mr. Rinkaj Goyal",
+      "date": "2012-06-16",
+      "pub_url": "http://arxiv.org/abs/1206.3667v1"
+    },
+    {
+      "name": "A Semantic Enhanced Model for effective Spatial Information Retrieval",
+      "cu_author": "Adeyinka K. Akanbi,Olusanya Y. Agunbiade,Sadiq Kuti,Olumuyiwa J. Dehinbo",
+      "date": "2014-06-08",
+      "pub_url": "http://arxiv.org/abs/1406.1969v1"
+    },
+    {
+      "name": "The Linear Capacity of Single-Server Individually-Private Information\n  Retrieval with Side Information",
+      "cu_author": "Anoosheh Heidarzadeh,Alex Sprintson",
+      "date": "2022-02-24",
+      "pub_url": "http://arxiv.org/abs/2202.12229v1"
+    },
+    {
+      "name": "Multi-Message Private Information Retrieval: Capacity Results and\n  Near-Optimal Schemes",
+      "cu_author": "Karim Banawan,Sennur Ulukus",
+      "date": "2017-02-06",
+      "pub_url": "http://arxiv.org/abs/1702.01739v1"
+    },
+    {
+      "name": "SPRINT: A Unified Toolkit for Evaluating and Demystifying Zero-shot\n  Neural Sparse Retrieval",
+      "cu_author": "Nandan Thakur,Kexin Wang,Iryna Gurevych,Jimmy Lin",
+      "date": "2023-07-19",
+      "pub_url": "http://arxiv.org/abs/2307.10488v1"
+    },
+    {
+      "name": "MIREX: MapReduce Information Retrieval Experiments",
+      "cu_author": "Djoerd Hiemstra,Claudia Hauff",
+      "date": "2010-04-26",
+      "pub_url": "http://arxiv.org/abs/1004.4489v1"
+    },
+    {
+      "name": "Using Lotkaian Informetrics for Ranking in Digital Libraries",
+      "cu_author": "Philipp Schaer",
+      "date": "2011-06-01",
+      "pub_url": "http://arxiv.org/abs/1106.0217v1"
+    },
+    {
+      "name": "Evaluation of some Information Retrieval models for Gujarati Ad hoc\n  Monolingual Tasks",
+      "cu_author": "Hardik J. Joshi,Pareek Jyoti",
+      "date": "2012-09-01",
+      "pub_url": "http://arxiv.org/abs/1209.0126v1"
+    },
+    {
+      "name": "Text Based Approach For Indexing And Retrieval Of Image And Video: A\n  Review",
+      "cu_author": "Avinash N Bhute,B. B. Meshram",
+      "date": "2014-04-05",
+      "pub_url": "http://arxiv.org/abs/1404.1514v1"
+    },
+    {
+      "name": "Modelling Word Burstiness in Natural Language: A Generalised Polya\n  Process for Document Language Models in Information Retrieval",
+      "cu_author": "Ronan Cummins",
+      "date": "2017-08-20",
+      "pub_url": "http://arxiv.org/abs/1708.06011v1"
+    },
+    {
+      "name": "On the Estimation and Use of Statistical Modelling in Information\n  Retrieval",
+      "cu_author": "Casper Petersen",
+      "date": "2019-03-30",
+      "pub_url": "http://arxiv.org/abs/1904.00289v1"
+    },
+    {
+      "name": "Affine phase retrieval for sparse signals via $\\ell_1$ minimization",
+      "cu_author": "Meng Huang,Shixiang Sun,Zhiqiang Xu",
+      "date": "2022-09-19",
+      "pub_url": "http://arxiv.org/abs/2209.08935v1"
+    },
+    {
+      "name": "Explainability of Text Processing and Retrieval Methods: A Critical\n  Survey",
+      "cu_author": "Sourav Saha,Debapriyo Majumdar,Mandar Mitra",
+      "date": "2022-12-14",
+      "pub_url": "http://arxiv.org/abs/2212.07126v1"
+    },
+    {
+      "name": "Content Base Image Retrieval Using Phong Shading",
+      "cu_author": "Uday Pratap Singh,Sanjeev Jain,Gulfishan Firdose Ahmed",
+      "date": "2010-05-24",
+      "pub_url": "http://arxiv.org/abs/1005.4267v1"
+    },
+    {
+      "name": "Spaces, Trees and Colors: The Algorithmic Landscape of Document\n  Retrieval on Sequences",
+      "cu_author": "Gonzalo Navarro",
+      "date": "2013-04-22",
+      "pub_url": "http://arxiv.org/abs/1304.6023v5"
+    },
+    {
+      "name": "Document Retrieval using Predication Similarity",
+      "cu_author": "Kalpa Gunaratna",
+      "date": "2016-04-19",
+      "pub_url": "http://arxiv.org/abs/1604.05754v1"
+    },
+    {
+      "name": "A Bag of Visual Words Model for Medical Image Retrieval",
+      "cu_author": "Sowmya Kamath S,Karthik K",
+      "date": "2020-07-18",
+      "pub_url": "http://arxiv.org/abs/2007.09464v1"
+    },
+    {
+      "name": "A Strong Baseline for Fashion Retrieval with Person Re-Identification\n  Models",
+      "cu_author": "Mikolaj Wieczorek,Andrzej Michalowski,Anna Wroblewska,Jacek Dabrowski",
+      "date": "2020-03-09",
+      "pub_url": "http://arxiv.org/abs/2003.04094v1"
+    },
+    {
+      "name": "CONCRETE: Improving Cross-lingual Fact-checking with Cross-lingual\n  Retrieval",
+      "cu_author": "Kung-Hsiang Huang,ChengXiang Zhai,Heng Ji",
+      "date": "2022-09-05",
+      "pub_url": "http://arxiv.org/abs/2209.02071v1"
+    },
+    {
+      "name": "Nonparametric Decoding for Generative Retrieval",
+      "cu_author": "Hyunji Lee,Jaeyoung Kim,Hoyeon Chang,Hanseok Oh,Sohee Yang,Vlad Karpukhin,Yi Lu,Minjoon Seo",
+      "date": "2022-10-05",
+      "pub_url": "http://arxiv.org/abs/2210.02068v3"
+    },
+    {
+      "name": "Better Than Whitespace: Information Retrieval for Languages without\n  Custom Tokenizers",
+      "cu_author": "Odunayo Ogundepo,Xinyu Zhang,Jimmy Lin",
+      "date": "2022-10-11",
+      "pub_url": "http://arxiv.org/abs/2210.05481v1"
+    },
+    {
+      "name": "Soft Prompt Decoding for Multilingual Dense Retrieval",
+      "cu_author": "Zhiqi Huang,Hansi Zeng,Hamed Zamani,James Allan",
+      "date": "2023-05-15",
+      "pub_url": "http://arxiv.org/abs/2305.09025v1"
+    },
+    {
+      "name": "Exploring the Practicality of Generative Retrieval on Dynamic Corpora",
+      "cu_author": "Soyoung Yoon,Chaeeun Kim,Hyunji Lee,Joel Jang,Sohee Yang,Minjoon Seo",
+      "date": "2023-05-27",
+      "pub_url": "http://arxiv.org/abs/2305.18952v3"
+    },
+    {
+      "name": "Resources and Evaluations for Multi-Distribution Dense Information\n  Retrieval",
+      "cu_author": "Soumya Chatterjee,Omar Khattab,Simran Arora",
+      "date": "2023-06-21",
+      "pub_url": "http://arxiv.org/abs/2306.12601v1"
+    },
+    {
+      "name": "End-to-End Retrieval with Learned Dense and Sparse Representations Using\n  Lucene",
+      "cu_author": "Haonan Chen,Carlos Lassance,Jimmy Lin",
+      "date": "2023-11-30",
+      "pub_url": "http://arxiv.org/abs/2311.18503v1"
+    },
+    {
+      "name": "Ontology-based Secure Retrieval of Semantically Significant Visual\n  Contents",
+      "cu_author": "Khan Muhammad,Irfan Mehmood,Mi Young Lee,Su Mi Ji,Sung Wook Baik",
+      "date": "2015-10-08",
+      "pub_url": "http://arxiv.org/abs/1510.02177v1"
+    },
+    {
+      "name": "A Linguistic Study on Relevance Modeling in Information Retrieval",
+      "cu_author": "Yixing Fan,Jiafeng Guo,Xinyu Ma,Ruqing Zhang,Yanyan Lan,Xueqi Cheng",
+      "date": "2021-03-01",
+      "pub_url": "http://arxiv.org/abs/2103.00956v1"
+    },
+    {
+      "name": "Pulse retrieval and soliton formation in a non-standard scheme for\n  dynamic electromagnetically induced transparency",
+      "cu_author": "Amy Peng,Mattias Johnsson,Joseph J. Hope",
+      "date": "2004-11-09",
+      "pub_url": "http://arxiv.org/abs/quant-ph/0411055v1"
+    },
+    {
+      "name": "Interactive Retrieval Based on Wikipedia Concepts",
+      "cu_author": "Lanbo Zhang",
+      "date": "2014-12-29",
+      "pub_url": "http://arxiv.org/abs/1412.8281v1"
+    },
+    {
+      "name": "Towards End-to-End Audio-Sheet-Music Retrieval",
+      "cu_author": "Matthias Dorfer,Andreas Arzt,Gerhard Widmer",
+      "date": "2016-12-15",
+      "pub_url": "http://arxiv.org/abs/1612.05070v1"
+    },
+    {
+      "name": "An Efficient Approach for Super and Nested Term Indexing and Retrieval",
+      "cu_author": "Md Faisal Mahbub Chowdhury,Robert Farrell",
+      "date": "2019-05-23",
+      "pub_url": "http://arxiv.org/abs/1905.09761v1"
+    },
+    {
+      "name": "Semi-supervised Hashing for Semi-Paired Cross-View Retrieval",
+      "cu_author": "Jun Yu,Xiao-Jun Wu,Josef Kittler",
+      "date": "2018-06-19",
+      "pub_url": "http://arxiv.org/abs/1806.07155v1"
+    },
+    {
+      "name": "Cross-Lingual Relevance Transfer for Document Retrieval",
+      "cu_author": "Peng Shi,Jimmy Lin",
+      "date": "2019-11-08",
+      "pub_url": "http://arxiv.org/abs/1911.02989v1"
+    },
+    {
+      "name": "Complementing Lexical Retrieval with Semantic Residual Embedding",
+      "cu_author": "Luyu Gao,Zhuyun Dai,Tongfei Chen,Zhen Fan,Benjamin Van Durme,Jamie Callan",
+      "date": "2020-04-29",
+      "pub_url": "http://arxiv.org/abs/2004.13969v3"
+    },
+    {
+      "name": "Beyond Lexical: A Semantic Retrieval Framework for Textual SearchEngine",
+      "cu_author": "Kuan Fang,Long Zhao,Zhan Shen,RuiXing Wang,RiKang Zhour,LiWen Fan",
+      "date": "2020-08-10",
+      "pub_url": "http://arxiv.org/abs/2008.03917v1"
+    },
+    {
+      "name": "Rethink Training of BERT Rerankers in Multi-Stage Retrieval Pipeline",
+      "cu_author": "Luyu Gao,Zhuyun Dai,Jamie Callan",
+      "date": "2021-01-21",
+      "pub_url": "http://arxiv.org/abs/2101.08751v1"
+    },
+    {
+      "name": "Sparsifying Sparse Representations for Passage Retrieval by Top-$k$\n  Masking",
+      "cu_author": "Jheng-Hong Yang,Xueguang Ma,Jimmy Lin",
+      "date": "2021-12-17",
+      "pub_url": "http://arxiv.org/abs/2112.09628v1"
+    },
+    {
+      "name": "Establishing Strong Baselines for TripClick Health Retrieval",
+      "cu_author": "Sebastian Hofst\u00e4tter,Sophia Althammer,Mete Sertkan,Allan Hanbury",
+      "date": "2022-01-02",
+      "pub_url": "http://arxiv.org/abs/2201.00365v1"
+    },
+    {
+      "name": "STraceBERT: Source Code Retrieval using Semantic Application Traces",
+      "cu_author": "Claudio Spiess",
+      "date": "2023-12-07",
+      "pub_url": "http://arxiv.org/abs/2312.04731v1"
+    },
+    {
+      "name": "Implications of Inter-Rater Agreement on a Student Information Retrieval\n  Evaluation",
+      "cu_author": "Philipp Schaer,Philipp Mayr,Peter Mutschke",
+      "date": "2010-10-09",
+      "pub_url": "http://arxiv.org/abs/1010.1824v1"
+    },
+    {
+      "name": "Probability Based Clustering for Document and User Properties",
+      "cu_author": "Thomas Mandl,Christa Womser-Hacker",
+      "date": "2011-02-18",
+      "pub_url": "http://arxiv.org/abs/1102.3865v1"
+    },
+    {
+      "name": "Investigating Information Inconsistency in Multilingual Open-Domain\n  Question Answering",
+      "cu_author": "Shramay Palta,Haozhe An,Yifan Yang,Shuaiyi Huang,Maharshi Gor",
+      "date": "2022-05-25",
+      "pub_url": "http://arxiv.org/abs/2205.12456v1"
+    },
+    {
+      "name": "Building Interpretable and Reliable Open Information Retriever for New\n  Domains Overnight",
+      "cu_author": "Xiaodong Yu,Ben Zhou,Dan Roth",
+      "date": "2023-08-09",
+      "pub_url": "http://arxiv.org/abs/2308.04756v1"
+    },
+    {
+      "name": "Enhanced Trustworthy and High-Quality Information Retrieval System for\n  Web Search Engines",
+      "cu_author": "Sumalatha Ramachandran,Sujaya Paulraj,Sharon Joseph,Vetriselvi Ramaraj",
+      "date": "2009-11-04",
+      "pub_url": "http://arxiv.org/abs/0911.0914v2"
+    },
+    {
+      "name": "The Capacity of Private Information Retrieval",
+      "cu_author": "Hua Sun,Syed A. Jafar",
+      "date": "2016-02-29",
+      "pub_url": "http://arxiv.org/abs/1602.09134v2"
+    },
+    {
+      "name": "The Capacity of Symmetric Private Information Retrieval",
+      "cu_author": "Hua Sun,Syed A. Jafar",
+      "date": "2016-06-28",
+      "pub_url": "http://arxiv.org/abs/1606.08828v2"
+    },
+    {
+      "name": "Bibliometric-enhanced Information Retrieval: 2nd International BIR\n  Workshop",
+      "cu_author": "Philipp Mayr,Ingo Frommholz,Andrea Scharnhorst,Peter Mutschke",
+      "date": "2015-01-12",
+      "pub_url": "http://arxiv.org/abs/1501.02646v1"
+    },
+    {
+      "name": "Responding to Retrieval: A Proposal to Use Retrieval Information for\n  Better Presentation of Website Content",
+      "cu_author": "C Ravindranath Chowdary,Anil Kumar Singh,Anil Nelakanti",
+      "date": "2015-01-19",
+      "pub_url": "http://arxiv.org/abs/1501.04509v1"
+    },
+    {
+      "name": "Variational Autoencoder with CCA for Audio-Visual Cross-Modal Retrieval",
+      "cu_author": "Jiwei Zhang,Yi Yu,Suhua Tang,Jianming Wu,Wei Li",
+      "date": "2021-12-05",
+      "pub_url": "http://arxiv.org/abs/2112.02601v1"
+    },
+    {
+      "name": "NIR-Prompt: A Multi-task Generalized Neural Information Retrieval\n  Training Framework",
+      "cu_author": "Shicheng Xu,Liang Pang,Huawei Shen,Xueqi Cheng",
+      "date": "2022-12-01",
+      "pub_url": "http://arxiv.org/abs/2212.00229v2"
+    },
+    {
+      "name": "Least Information Modeling for Information Retrieval",
+      "cu_author": "Weimao Ke",
+      "date": "2012-05-02",
+      "pub_url": "http://arxiv.org/abs/1205.0312v1"
+    },
+    {
+      "name": "Large Language Models are Strong Zero-Shot Retriever",
+      "cu_author": "Tao Shen,Guodong Long,Xiubo Geng,Chongyang Tao,Tianyi Zhou,Daxin Jiang",
+      "date": "2023-04-27",
+      "pub_url": "http://arxiv.org/abs/2304.14233v2"
+    },
+    {
+      "name": "Graph Convolution Based Efficient Re-Ranking for Visual Retrieval",
+      "cu_author": "Yuqi Zhang,Qi Qian,Hongsong Wang,Chong Liu,Weihua Chen,Fan Wang",
+      "date": "2023-06-15",
+      "pub_url": "http://arxiv.org/abs/2306.08792v1"
+    },
+    {
+      "name": "Retrieve Anything To Augment Large Language Models",
+      "cu_author": "Peitian Zhang,Shitao Xiao,Zheng Liu,Zhicheng Dou,Jian-Yun Nie",
+      "date": "2023-10-11",
+      "pub_url": "http://arxiv.org/abs/2310.07554v2"
+    },
+    {
+      "name": "The Parallel Distributed Image Search Engine (ParaDISE)",
+      "cu_author": "Dimitrios Markonis,Roger Schaer,Alba Garc\u00eda Seco de Herrera,Henning M\u00fcller",
+      "date": "2017-01-19",
+      "pub_url": "http://arxiv.org/abs/1701.05596v1"
+    },
+    {
+      "name": "End-to-End Cross-Modality Retrieval with CCA Projections and Pairwise\n  Ranking Loss",
+      "cu_author": "Matthias Dorfer,Jan Schl\u00fcter,Andreu Vall,Filip Korzeniowski,Gerhard Widmer",
+      "date": "2017-05-19",
+      "pub_url": "http://arxiv.org/abs/1705.06979v2"
+    },
+    {
+      "name": "Answering Complex Open-domain Questions Through Iterative Query\n  Generation",
+      "cu_author": "Peng Qi,Xiaowen Lin,Leo Mehr,Zijian Wang,Christopher D. Manning",
+      "date": "2019-10-15",
+      "pub_url": "http://arxiv.org/abs/1910.07000v1"
+    },
+    {
+      "name": "Sparse and Dense Approaches for the Full-rank Retrieval of Responses for\n  Dialogues",
+      "cu_author": "Gustavo Penha,Claudia Hauff",
+      "date": "2022-04-22",
+      "pub_url": "http://arxiv.org/abs/2204.10558v1"
+    },
+    {
+      "name": "Learning to Retrieve Videos by Asking Questions",
+      "cu_author": "Avinash Madasu,Junier Oliva,Gedas Bertasius",
+      "date": "2022-05-11",
+      "pub_url": "http://arxiv.org/abs/2205.05739v3"
+    },
+    {
+      "name": "Parameter-efficient Zero-shot Transfer for Cross-Language Dense\n  Retrieval with Adapters",
+      "cu_author": "Eugene Yang,Suraj Nair,Dawn Lawrie,James Mayfield,Douglas W. Oard",
+      "date": "2022-12-20",
+      "pub_url": "http://arxiv.org/abs/2212.10448v1"
+    },
+    {
+      "name": "How Does Generative Retrieval Scale to Millions of Passages?",
+      "cu_author": "Ronak Pradeep,Kai Hui,Jai Gupta,Adam D. Lelkes,Honglei Zhuang,Jimmy Lin,Donald Metzler,Vinh Q. Tran",
+      "date": "2023-05-19",
+      "pub_url": "http://arxiv.org/abs/2305.11841v1"
+    },
+    {
+      "name": "Selecting which Dense Retriever to use for Zero-Shot Search",
+      "cu_author": "Ekaterina Khramtsova,Shengyao Zhuang,Mahsa Baktashmotlagh,Xi Wang,Guido Zuccon",
+      "date": "2023-09-18",
+      "pub_url": "http://arxiv.org/abs/2309.09403v1"
+    },
+    {
+      "name": "CAIBC: Capturing All-round Information Beyond Color for Text-based\n  Person Retrieval",
+      "cu_author": "Zijie Wang,Aichun Zhu,Jingyi Xue,Xili Wan,Chao Liu,Tian Wang,Yifeng Li",
+      "date": "2022-09-13",
+      "pub_url": "http://arxiv.org/abs/2209.05773v1"
+    },
+    {
+      "name": "Unsupervised Triplet Hashing for Fast Image Retrieval",
+      "cu_author": "Shanshan Huang,Yichao Xiong,Ya Zhang,Jia Wang",
+      "date": "2017-02-28",
+      "pub_url": "http://arxiv.org/abs/1702.08798v1"
+    },
+    {
+      "name": "Improving Entity Retrieval on Structured Data",
+      "cu_author": "Besnik Fetahu,Ujwal Gadiraju,Stefan Dietze",
+      "date": "2017-03-30",
+      "pub_url": "http://arxiv.org/abs/1703.10349v1"
+    },
+    {
+      "name": "Approximate Nearest Neighbor Negative Contrastive Learning for Dense\n  Text Retrieval",
+      "cu_author": "Lee Xiong,Chenyan Xiong,Ye Li,Kwok-Fung Tang,Jialin Liu,Paul Bennett,Junaid Ahmed,Arnold Overwijk",
+      "date": "2020-07-01",
+      "pub_url": "http://arxiv.org/abs/2007.00808v2"
+    },
+    {
+      "name": "Pulse Retrieval Algorithm for Interferometric Frequency-Resolved Optical\n  Gating Based on Differential Evolution",
+      "cu_author": "Janne Hyyti,Esmerando Escoto,G\u00fcnter Steinmeyer",
+      "date": "2017-08-11",
+      "pub_url": "http://arxiv.org/abs/1708.03560v1"
+    },
+    {
+      "name": "Joint Learning of Interactive Spoken Content Retrieval and Trainable\n  User Simulator",
+      "cu_author": "Pei-Hung Chung,Kuan Tung,Ching-Lun Tai,Hung-Yi Lee",
+      "date": "2018-04-01",
+      "pub_url": "http://arxiv.org/abs/1804.00318v1"
+    },
+    {
+      "name": "Learning Joint Embedding for Cross-Modal Retrieval",
+      "cu_author": "Donghuo Zeng",
+      "date": "2019-08-21",
+      "pub_url": "http://arxiv.org/abs/1908.07673v1"
+    },
+    {
+      "name": "ProphetNet-Ads: A Looking Ahead Strategy for Generative Retrieval Models\n  in Sponsored Search Engine",
+      "cu_author": "Weizhen Qi,Yeyun Gong,Yu Yan,Jian Jiao,Bo Shao,Ruofei Zhang,Houqiang Li,Nan Duan,Ming Zhou",
+      "date": "2020-10-21",
+      "pub_url": "http://arxiv.org/abs/2010.10789v1"
+    },
+    {
+      "name": "A Statutory Article Retrieval Dataset in French",
+      "cu_author": "Antoine Louis,Gerasimos Spanakis",
+      "date": "2021-08-26",
+      "pub_url": "http://arxiv.org/abs/2108.11792v2"
+    },
+    {
+      "name": "Retrieving Black-box Optimal Images from External Databases",
+      "cu_author": "Ryoma Sato",
+      "date": "2021-12-30",
+      "pub_url": "http://arxiv.org/abs/2112.14921v1"
+    },
+    {
+      "name": "LaPraDoR: Unsupervised Pretrained Dense Retriever for Zero-Shot Text\n  Retrieval",
+      "cu_author": "Canwen Xu,Daya Guo,Nan Duan,Julian McAuley",
+      "date": "2022-03-11",
+      "pub_url": "http://arxiv.org/abs/2203.06169v2"
+    },
+    {
+      "name": "Weakly-Supervised End-to-End CAD Retrieval to Scan Objects",
+      "cu_author": "Tim Beyer,Angela Dai",
+      "date": "2022-03-24",
+      "pub_url": "http://arxiv.org/abs/2203.12873v1"
+    },
+    {
+      "name": "Probabilistic Compositional Embeddings for Multimodal Image Retrieval",
+      "cu_author": "Andrei Neculai,Yanbei Chen,Zeynep Akata",
+      "date": "2022-04-12",
+      "pub_url": "http://arxiv.org/abs/2204.05845v1"
+    },
+    {
+      "name": "C3: Continued Pretraining with Contrastive Weak Supervision for Cross\n  Language Ad-Hoc Retrieval",
+      "cu_author": "Eugene Yang,Suraj Nair,Ramraj Chandradevan,Rebecca Iglesias-Flores,Douglas W. Oard",
+      "date": "2022-04-25",
+      "pub_url": "http://arxiv.org/abs/2204.11989v1"
+    },
+    {
+      "name": "Optimizing Test-Time Query Representations for Dense Retrieval",
+      "cu_author": "Mujeen Sung,Jungsoo Park,Jaewoo Kang,Danqi Chen,Jinhyuk Lee",
+      "date": "2022-05-25",
+      "pub_url": "http://arxiv.org/abs/2205.12680v3"
+    },
+    {
+      "name": "Towards Robust Ranker for Text Retrieval",
+      "cu_author": "Yucheng Zhou,Tao Shen,Xiubo Geng,Chongyang Tao,Can Xu,Guodong Long,Binxing Jiao,Daxin Jiang",
+      "date": "2022-06-16",
+      "pub_url": "http://arxiv.org/abs/2206.08063v1"
+    },
+    {
+      "name": "Topic-Grained Text Representation-based Model for Document Retrieval",
+      "cu_author": "Mengxue Du,Shasha Li,Jie Yu,Jun Ma,Bin Ji,Huijun Liu,Wuhang Lin,Zibo Yi",
+      "date": "2022-07-11",
+      "pub_url": "http://arxiv.org/abs/2207.04656v1"
+    },
+    {
+      "name": "Generate-and-Retrieve: use your predictions to improve retrieval for\n  semantic parsing",
+      "cu_author": "Yury Zemlyanskiy,Michiel de Jong,Joshua Ainslie,Panupong Pasupat,Peter Shaw,Linlu Qiu,Sumit Sanghai,Fei Sha",
+      "date": "2022-09-29",
+      "pub_url": "http://arxiv.org/abs/2209.14899v1"
+    },
+    {
+      "name": "Variational Open-Domain Question Answering",
+      "cu_author": "Valentin Li\u00e9vin,Andreas Geert Motzfeldt,Ida Riis Jensen,Ole Winther",
+      "date": "2022-09-23",
+      "pub_url": "http://arxiv.org/abs/2210.06345v2"
+    },
+    {
+      "name": "Decoding a Neural Retriever's Latent Space for Query Suggestion",
+      "cu_author": "Leonard Adolphs,Michelle Chen Huebscher,Christian Buck,Sertan Girgin,Olivier Bachem,Massimiliano Ciaramita,Thomas Hofmann",
+      "date": "2022-10-21",
+      "pub_url": "http://arxiv.org/abs/2210.12084v1"
+    },
+    {
+      "name": "Fine-Grained Distillation for Long Document Retrieval",
+      "cu_author": "Yucheng Zhou,Tao Shen,Xiubo Geng,Chongyang Tao,Guodong Long,Can Xu,Daxin Jiang",
+      "date": "2022-12-20",
+      "pub_url": "http://arxiv.org/abs/2212.10423v1"
+    },
+    {
+      "name": "SLIM: Sparsified Late Interaction for Multi-Vector Retrieval with\n  Inverted Indexes",
+      "cu_author": "Minghan Li,Sheng-Chieh Lin,Xueguang Ma,Jimmy Lin",
+      "date": "2023-02-13",
+      "pub_url": "http://arxiv.org/abs/2302.06587v2"
+    },
+    {
+      "name": "CoT-MoTE: Exploring ConTextual Masked Auto-Encoder Pre-training with\n  Mixture-of-Textual-Experts for Passage Retrieval",
+      "cu_author": "Guangyuan Ma,Xing Wu,Peng Wang,Songlin Hu",
+      "date": "2023-04-20",
+      "pub_url": "http://arxiv.org/abs/2304.10195v1"
+    },
+    {
+      "name": "Hybrid and Collaborative Passage Reranking",
+      "cu_author": "Zongmeng Zhang,Wengang Zhou,Jiaxin Shi,Houqiang Li",
+      "date": "2023-05-16",
+      "pub_url": "http://arxiv.org/abs/2305.09313v1"
+    },
+    {
+      "name": "Pre-training with Large Language Model-based Document Expansion for\n  Dense Passage Retrieval",
+      "cu_author": "Guangyuan Ma,Xing Wu,Peng Wang,Zijia Lin,Songlin Hu",
+      "date": "2023-08-16",
+      "pub_url": "http://arxiv.org/abs/2308.08285v1"
+    },
+    {
+      "name": "Exploring the Integration Strategies of Retriever and Large Language\n  Models",
+      "cu_author": "Ye Liu,Semih Yavuz,Rui Meng,Meghana Moorthy,Shafiq Joty,Caiming Xiong,Yingbo Zhou",
+      "date": "2023-08-24",
+      "pub_url": "http://arxiv.org/abs/2308.12574v1"
+    },
+    {
+      "name": "Dual-Feedback Knowledge Retrieval for Task-Oriented Dialogue Systems",
+      "cu_author": "Tianyuan Shi,Liangzhi Li,Zijian Lin,Tao Yang,Xiaojun Quan,Qifan Wang",
+      "date": "2023-10-23",
+      "pub_url": "http://arxiv.org/abs/2310.14528v1"
+    },
+    {
+      "name": "PRCA: Fitting Black-Box Large Language Models for Retrieval Question\n  Answering via Pluggable Reward-Driven Contextual Adapter",
+      "cu_author": "Haoyan Yang,Zhitao Li,Yong Zhang,Jianzong Wang,Ning Cheng,Ming Li,Jing Xiao",
+      "date": "2023-10-23",
+      "pub_url": "http://arxiv.org/abs/2310.18347v1"
+    },
+    {
+      "name": "Text Retrieval with Multi-Stage Re-Ranking Models",
+      "cu_author": "Yuichi Sasazawa,Kenichi Yokote,Osamu Imaichi,Yasuhiro Sogawa",
+      "date": "2023-11-14",
+      "pub_url": "http://arxiv.org/abs/2311.07994v1"
+    },
+    {
+      "name": "Boot and Switch: Alternating Distillation for Zero-Shot Dense Retrieval",
+      "cu_author": "Fan Jiang,Qiongkai Xu,Tom Drummond,Trevor Cohn",
+      "date": "2023-11-27",
+      "pub_url": "http://arxiv.org/abs/2311.15564v1"
+    },
+    {
+      "name": "Improving Query Representations for Dense Retrieval with Pseudo\n  Relevance Feedback: A Reproducibility Study",
+      "cu_author": "Hang Li,Shengyao Zhuang,Ahmed Mourad,Xueguang Ma,Jimmy Lin,Guido Zuccon",
+      "date": "2021-12-13",
+      "pub_url": "http://arxiv.org/abs/2112.06400v2"
+    },
+    {
+      "name": "LSTM-Based Predictions for Proactive Information Retrieval",
+      "cu_author": "Petri Luukkonen,Markus Koskela,Patrik Flor\u00e9en",
+      "date": "2016-06-20",
+      "pub_url": "http://arxiv.org/abs/1606.06137v1"
+    },
+    {
+      "name": "The Capacity of Private Information Retrieval from Coded Databases",
+      "cu_author": "Karim Banawan,Sennur Ulukus",
+      "date": "2016-09-26",
+      "pub_url": "http://arxiv.org/abs/1609.08138v1"
+    },
+    {
+      "name": "Intermittent Private Information Retrieval with Application to Location\n  Privacy",
+      "cu_author": "Fangwei Ye,Salim El Rouayheb",
+      "date": "2021-06-01",
+      "pub_url": "http://arxiv.org/abs/2106.00740v2"
+    },
+    {
+      "name": "ChatGPT for GTFS: Benchmarking LLMs on GTFS Understanding and Retrieval",
+      "cu_author": "Saipraneeth Devunuri,Shirin Qiam,Lewis Lehe",
+      "date": "2023-08-04",
+      "pub_url": "http://arxiv.org/abs/2308.02618v2"
+    },
+    {
+      "name": "Performing Informetric Analysis on Information Retrieval Test\n  Collections: Preliminary Experiments in the Physics Domain",
+      "cu_author": "Tamara Heck,Philipp Schaer",
+      "date": "2013-06-07",
+      "pub_url": "http://arxiv.org/abs/1306.1743v1"
+    },
+    {
+      "name": "Evaluating the Robustness of Retrieval Pipelines with Query Variation\n  Generators",
+      "cu_author": "Gustavo Penha,Arthur C\u00e2mara,Claudia Hauff",
+      "date": "2021-11-25",
+      "pub_url": "http://arxiv.org/abs/2111.13057v3"
+    },
+    {
+      "name": "Mapping PM2.5 concentration at sub-km level resolution: a dual-scale\n  retrieval method",
+      "cu_author": "Qianqian Yang,Qiangqiang Yuan,Linwei Yue,Huanfeng Shen,Liangpei Zhang",
+      "date": "2019-07-06",
+      "pub_url": "http://arxiv.org/abs/1907.03095v1"
+    },
+    {
+      "name": "A Novel Framework for Intelligent Information Retrieval in Wireless\n  Sensor Networks",
+      "cu_author": "Savneet Kaur,Deepali Virmani,Satbir Jain",
+      "date": "2015-03-02",
+      "pub_url": "http://arxiv.org/abs/1503.00439v1"
+    },
+    {
+      "name": "CMIR-NET : A Deep Learning Based Model For Cross-Modal Retrieval In\n  Remote Sensing",
+      "cu_author": "Ushasi Chaudhuri,Biplab Banerjee,Avik Bhattacharya,Mihai Datcu",
+      "date": "2019-04-09",
+      "pub_url": "http://arxiv.org/abs/1904.04794v2"
+    },
+    {
+      "name": "Histopathology WSI Encoding based on GCNs for Scalable and Efficient\n  Retrieval of Diagnostically Relevant Regions",
+      "cu_author": "Yushan Zheng,Zhiguo Jiang,Haopeng Zhang,Fengying Xie,Jun Shi,Chenghai Xue",
+      "date": "2021-04-16",
+      "pub_url": "http://arxiv.org/abs/2104.07878v1"
+    },
+    {
+      "name": "GeoWINE: Geolocation based Wiki, Image,News and Event Retrieval",
+      "cu_author": "Golsa Tahmasebzadeh,Endri Kacupaj,Eric M\u00fcller-Budack,Sherzod Hakimov,Jens Lehmann,Ralph Ewerth",
+      "date": "2021-04-30",
+      "pub_url": "http://arxiv.org/abs/2104.14994v2"
+    },
+    {
+      "name": "Unsupervised Dense Information Retrieval with Contrastive Learning",
+      "cu_author": "Gautier Izacard,Mathilde Caron,Lucas Hosseini,Sebastian Riedel,Piotr Bojanowski,Armand Joulin,Edouard Grave",
+      "date": "2021-12-16",
+      "pub_url": "http://arxiv.org/abs/2112.09118v4"
+    },
+    {
+      "name": "Diagnosing BERT with Retrieval Heuristics",
+      "cu_author": "Arthur C\u00e2mara,Claudia Hauff",
+      "date": "2022-01-12",
+      "pub_url": "http://arxiv.org/abs/2201.04458v1"
+    },
+    {
+      "name": "Improving Cross-lingual Information Retrieval on Low-Resource Languages\n  via Optimal Transport Distillation",
+      "cu_author": "Zhiqi Huang,Puxuan Yu,James Allan",
+      "date": "2023-01-29",
+      "pub_url": "http://arxiv.org/abs/2301.12566v1"
+    },
+    {
+      "name": "Active Retrieval Augmented Generation",
+      "cu_author": "Zhengbao Jiang,Frank F. Xu,Luyu Gao,Zhiqing Sun,Qian Liu,Jane Dwivedi-Yu,Yiming Yang,Jamie Callan,Graham Neubig",
+      "date": "2023-05-11",
+      "pub_url": "http://arxiv.org/abs/2305.06983v2"
+    },
+    {
+      "name": "MILL: Mutual Verification with Large Language Models for Zero-Shot Query\n  Expansion",
+      "cu_author": "Pengyue Jia,Yiding Liu,Xiangyu Zhao,Xiaopeng Li,Changying Hao,Shuaiqiang Wang,Dawei Yin",
+      "date": "2023-10-29",
+      "pub_url": "http://arxiv.org/abs/2310.19056v2"
+    },
+    {
+      "name": "Retrieval from Captioned Image Databases Using Natural Language\n  Processing",
+      "cu_author": "David Elworthy",
+      "date": "2000-11-20",
+      "pub_url": "http://arxiv.org/abs/cs/0011028v1"
+    },
+    {
+      "name": "Embedding Web-based Statistical Translation Models in Cross-Language\n  Information Retrieval",
+      "cu_author": "Wessel Kraaij,Jian-Yun Nie,Michel Simard",
+      "date": "2003-12-03",
+      "pub_url": "http://arxiv.org/abs/cs/0312008v1"
+    },
+    {
+      "name": "Iterative Expectation for Multi Period Information Retrieval",
+      "cu_author": "Marc Sloan,Jun Wang",
+      "date": "2013-03-21",
+      "pub_url": "http://arxiv.org/abs/1303.5250v1"
+    },
+    {
+      "name": "A comparative study of approaches in user-centered health information\n  retrieval",
+      "cu_author": "Harsh Thakkar,Ganesh Iyer,Prasenjit Majumder",
+      "date": "2015-05-07",
+      "pub_url": "http://arxiv.org/abs/1505.01606v1"
+    },
+    {
+      "name": "Applying Vector Space Model (VSM) Techniques in Information Retrieval\n  for Arabic Language",
+      "cu_author": "Bilal Abu-Salih",
+      "date": "2018-01-11",
+      "pub_url": "http://arxiv.org/abs/1801.03627v2"
+    },
+    {
+      "name": "Towards Automatic Clustering Analysis using Traces of Information Gain:\n  The InfoGuide Method",
+      "cu_author": "Paulo Rocha,Diego Pinheiro,Martin Cadeiras,Carmelo Bastos-Filho",
+      "date": "2020-01-23",
+      "pub_url": "http://arxiv.org/abs/2001.08677v1"
+    },
+    {
+      "name": "Grep-BiasIR: A Dataset for Investigating Gender Representation-Bias in\n  Information Retrieval Results",
+      "cu_author": "Klara Krieg,Emilia Parada-Cabaleiro,Gertraud Medicus,Oleg Lesota,Markus Schedl,Navid Rekabsaz",
+      "date": "2022-01-19",
+      "pub_url": "http://arxiv.org/abs/2201.07754v3"
+    },
+    {
+      "name": "GazBy: Gaze-Based BERT Model to Incorporate Human Attention in Neural\n  Information Retrieval",
+      "cu_author": "Sibo Dong,Justin Goldstein,Grace Hui Yang",
+      "date": "2022-07-04",
+      "pub_url": "http://arxiv.org/abs/2207.01674v1"
+    },
+    {
+      "name": "A Shannon-Theoretic Approach to the Storage-Retrieval Tradeoff in PIR\n  Systems",
+      "cu_author": "Chao Tian,Hua Sun,Jun Chen",
+      "date": "2023-01-05",
+      "pub_url": "http://arxiv.org/abs/2301.02155v1"
+    },
+    {
+      "name": "Gen-IR @ SIGIR 2023: The First Workshop on Generative Information\n  Retrieval",
+      "cu_author": "Gabriel B\u00e9n\u00e9dict,Ruqing Zhang,Donald Metzler",
+      "date": "2023-06-05",
+      "pub_url": "http://arxiv.org/abs/2306.02887v2"
+    },
+    {
+      "name": "Corpus structure, language models, and ad hoc information retrieval",
+      "cu_author": "Oren Kurland,Lillian Lee",
+      "date": "2004-05-12",
+      "pub_url": "http://arxiv.org/abs/cs/0405044v1"
+    },
+    {
+      "name": "Topic Map: An Ontology Framework for Information Retrieval",
+      "cu_author": "Rajkumar Kannan",
+      "date": "2010-03-18",
+      "pub_url": "http://arxiv.org/abs/1003.3530v1"
+    },
+    {
+      "name": "Spatio-Temporal Small Worlds for Decentralized Information Retrieval in\n  Social Networking",
+      "cu_author": "Georg Groh,Florian Straub,Benjamin Koster",
+      "date": "2012-09-13",
+      "pub_url": "http://arxiv.org/abs/1209.2868v1"
+    },
+    {
+      "name": "Private Information Retrieval using Product-Matrix Minimum Storage\n  Regenerating Codes",
+      "cu_author": "Chatdanai Dorkson,Siaw-Lynn Ng",
+      "date": "2018-05-18",
+      "pub_url": "http://arxiv.org/abs/1805.07190v1"
+    },
+    {
+      "name": "Bibliometric-Enhanced Information Retrieval: 5th International BIR\n  Workshop",
+      "cu_author": "Philipp Mayr,Ingo Frommholz,Guillaume Cabanac",
+      "date": "2017-10-30",
+      "pub_url": "http://arxiv.org/abs/1710.11231v1"
+    },
+    {
+      "name": "System Description of CITlab's Recognition &amp; Retrieval Engine for\n  ICDAR2017 Competition on Information Extraction in Historical Handwritten\n  Records",
+      "cu_author": "Tobias Strau\u00df,Max Weidemann,Johannes Michael,Gundram Leifert,Tobias Gr\u00fcning,Roger Labahn",
+      "date": "2018-04-26",
+      "pub_url": "http://arxiv.org/abs/1804.09943v1"
+    },
+    {
+      "name": "Comprehensive Review on Semantic Information Retrieval and Ontology\n  Engineering",
+      "cu_author": "Sumit Sharma,Sarika Jain",
+      "date": "2023-07-25",
+      "pub_url": "http://arxiv.org/abs/2307.13427v1"
+    },
+    {
+      "name": "A Science Model Driven Retrieval Prototype",
+      "cu_author": "Philipp Mayr,Philipp Schaer,Peter Mutschke",
+      "date": "2011-01-09",
+      "pub_url": "http://arxiv.org/abs/1101.1637v1"
+    },
+    {
+      "name": "Privacy-Preserving Important Passage Retrieval",
+      "cu_author": "Luis Marujo,Jos\u00e9 Port\u00ealo,David Martins de Matos,Jo\u00e3o P. Neto,Anatole Gershman,Jaime Carbonell,Isabel Trancoso,Bhiksha Raj",
+      "date": "2014-07-21",
+      "pub_url": "http://arxiv.org/abs/1407.5416v1"
+    },
+    {
+      "name": "Image Retrieval And Classification Using Local Feature Vectors",
+      "cu_author": "Vikas Verma",
+      "date": "2014-09-02",
+      "pub_url": "http://arxiv.org/abs/1409.0749v1"
+    },
+    {
+      "name": "Large Scale Question Paraphrase Retrieval with Smoothed Deep Metric\n  Learning",
+      "cu_author": "Daniele Bonadiman,Anjishnu Kumar,Arpit Mittal",
+      "date": "2019-05-29",
+      "pub_url": "http://arxiv.org/abs/1905.12786v1"
+    },
+    {
+      "name": "Conjugate Phase Retrieval on ${\\mathbb C}^M$ by real vectors",
+      "cu_author": "Luke Evans,Chun-Kit Lai",
+      "date": "2017-09-26",
+      "pub_url": "http://arxiv.org/abs/1709.08836v4"
+    },
+    {
+      "name": "End-to-End Retrieval in Continuous Space",
+      "cu_author": "Daniel Gillick,Alessandro Presta,Gaurav Singh Tomar",
+      "date": "2018-11-19",
+      "pub_url": "http://arxiv.org/abs/1811.08008v1"
+    },
+    {
+      "name": "Improving Retrieval-Based Question Answering with Deep Inference Models",
+      "cu_author": "George-Sebastian Pirtoaca,Traian Rebedea,Stefan Ruseti",
+      "date": "2018-12-07",
+      "pub_url": "http://arxiv.org/abs/1812.02971v2"
+    },
+    {
+      "name": "From Text to Sound: A Preliminary Study on Retrieving Sound Effects to\n  Radio Stories",
+      "cu_author": "Songwei Ge,Curtis Xuan,Ruihua Song,Chao Zou,Wei Liu,Jin Zhou",
+      "date": "2019-08-20",
+      "pub_url": "http://arxiv.org/abs/1908.07590v1"
+    },
+    {
+      "name": "THUIR@COLIEE-2020: Leveraging Semantic Understanding and Exact Matching\n  for Legal Case Retrieval and Entailment",
+      "cu_author": "Yunqiu Shao,Bulou Liu,Jiaxin Mao,Yiqun Liu,Min Zhang,Shaoping Ma",
+      "date": "2020-12-24",
+      "pub_url": "http://arxiv.org/abs/2012.13102v1"
+    },
+    {
+      "name": "Inertial Proximal ADMM for Separable Multi-Block Convex Optimizations\n  and Compressive Affine Phase Retrieval",
+      "cu_author": "Peng Li,Wengu Chen,Qiyu Sun",
+      "date": "2020-12-26",
+      "pub_url": "http://arxiv.org/abs/2012.13771v1"
+    },
+    {
+      "name": "How Can Graph Neural Networks Help Document Retrieval: A Case Study on\n  CORD19 with Concept Map Generation",
+      "cu_author": "Hejie Cui,Jiaying Lu,Yao Ge,Carl Yang",
+      "date": "2022-01-12",
+      "pub_url": "http://arxiv.org/abs/2201.04672v1"
+    },
+    {
+      "name": "Analysing the Robustness of Dual Encoders for Dense Retrieval Against\n  Misspellings",
+      "cu_author": "Georgios Sidiropoulos,Evangelos Kanoulas",
+      "date": "2022-05-04",
+      "pub_url": "http://arxiv.org/abs/2205.02303v1"
+    },
+    {
+      "name": "A Dataset for Sentence Retrieval for Open-Ended Dialogues",
+      "cu_author": "Itay Harel,Hagai Taitelbaum,Idan Szpektor,Oren Kurland",
+      "date": "2022-05-24",
+      "pub_url": "http://arxiv.org/abs/2205.11685v1"
+    },
+    {
+      "name": "Neural Retriever and Go Beyond: A Thesis Proposal",
+      "cu_author": "Man Luo",
+      "date": "2022-05-31",
+      "pub_url": "http://arxiv.org/abs/2205.16005v1"
+    },
+    {
+      "name": "Introducing Auxiliary Text Query-modifier to Content-based Audio\n  Retrieval",
+      "cu_author": "Daiki Takeuchi,Yasunori Ohishi,Daisuke Niizumi,Noboru Harada,Kunio Kashino",
+      "date": "2022-07-20",
+      "pub_url": "http://arxiv.org/abs/2207.09732v1"
+    },
+    {
+      "name": "On the Impact of Speech Recognition Errors in Passage Retrieval for\n  Spoken Question Answering",
+      "cu_author": "Georgios Sidiropoulos,Svitlana Vakulenko,Evangelos Kanoulas",
+      "date": "2022-09-26",
+      "pub_url": "http://arxiv.org/abs/2209.12944v1"
+    },
+    {
+      "name": "DyRRen: A Dynamic Retriever-Reranker-Generator Model for Numerical\n  Reasoning over Tabular and Textual Data",
+      "cu_author": "Xiao Li,Yin Zhu,Sichen Liu,Jiangzhou Ju,Yuzhong Qu,Gong Cheng",
+      "date": "2022-11-23",
+      "pub_url": "http://arxiv.org/abs/2211.12668v1"
+    },
+    {
+      "name": "Parameter-Efficient Sparse Retrievers and Rerankers using Adapters",
+      "cu_author": "Vaishali Pal,Carlos Lassance,Herv\u00e9 D\u00e9jean,St\u00e9phane Clinchant",
+      "date": "2023-03-23",
+      "pub_url": "http://arxiv.org/abs/2303.13220v1"
+    },
+    {
+      "name": "Generative and Pseudo-Relevant Feedback for Sparse, Dense and Learned\n  Sparse Retrieval",
+      "cu_author": "Iain Mackie,Shubham Chatterjee,Jeffrey Dalton",
+      "date": "2023-05-12",
+      "pub_url": "http://arxiv.org/abs/2305.07477v1"
+    },
+    {
+      "name": "Retrieving Texts based on Abstract Descriptions",
+      "cu_author": "Shauli Ravfogel,Valentina Pyatkin,Amir DN Cohen,Avshalom Manevich,Yoav Goldberg",
+      "date": "2023-05-21",
+      "pub_url": "http://arxiv.org/abs/2305.12517v2"
+    },
+    {
+      "name": "SamToNe: Improving Contrastive Loss for Dual Encoder Retrieval Models\n  with Same Tower Negatives",
+      "cu_author": "Fedor Moiseev,Gustavo Hernandez Abrego,Peter Dornbach,Imed Zitouni,Enrique Alfonseca,Zhe Dong",
+      "date": "2023-06-05",
+      "pub_url": "http://arxiv.org/abs/2306.02516v1"
+    },
+    {
+      "name": "Fine-grained Text-Video Retrieval with Frozen Image Encoders",
+      "cu_author": "Zuozhuo Dai,Fangtao Shao,Qingkun Su,Zilong Dong,Siyu Zhu",
+      "date": "2023-07-14",
+      "pub_url": "http://arxiv.org/abs/2307.09972v1"
+    },
+    {
+      "name": "Generator-Retriever-Generator: A Novel Approach to Open-domain Question\n  Answering",
+      "cu_author": "Abdelrahman Abdallah,Adam Jatowt",
+      "date": "2023-07-21",
+      "pub_url": "http://arxiv.org/abs/2307.11278v1"
+    },
+    {
+      "name": "Extending Cross-Modal Retrieval with Interactive Learning to Improve\n  Image Retrieval Performance in Forensics",
+      "cu_author": "Nils B\u00f6hne,Mark Berger,Ronald van Velzen",
+      "date": "2023-08-28",
+      "pub_url": "http://arxiv.org/abs/2308.14786v1"
+    },
+    {
+      "name": "MaRU: A Manga Retrieval and Understanding System Connecting Vision and\n  Language",
+      "cu_author": "Conghao Tom Shen,Violet Yao,Yixin Liu",
+      "date": "2023-10-22",
+      "pub_url": "http://arxiv.org/abs/2311.02083v1"
+    },
+    {
+      "name": "Generative Adversarial Nets for Information Retrieval: Fundamentals and\n  Advances",
+      "cu_author": "Weinan Zhang",
+      "date": "2018-06-10",
+      "pub_url": "http://arxiv.org/abs/1806.03577v1"
+    },
+    {
+      "name": "DynamicRetriever: A Pre-training Model-based IR System with Neither\n  Sparse nor Dense Index",
+      "cu_author": "Yujia Zhou,Jing Yao,Zhicheng Dou,Ledell Wu,Ji-Rong Wen",
+      "date": "2022-03-01",
+      "pub_url": "http://arxiv.org/abs/2203.00537v1"
+    },
+    {
+      "name": "Is Cross-modal Information Retrieval Possible without Training?",
+      "cu_author": "Hyunjin Choi,Hyunjae Lee,Seongho Joe,Youngjune L. Gwon",
+      "date": "2023-04-20",
+      "pub_url": "http://arxiv.org/abs/2304.11095v1"
+    },
+    {
+      "name": "You were saying? -- Spoken Language in the V3C Dataset",
+      "cu_author": "Luca Rossetto",
+      "date": "2022-12-15",
+      "pub_url": "http://arxiv.org/abs/2212.07835v1"
+    },
+    {
+      "name": "On Conditions for Uniqueness in Sparse Phase Retrieval",
+      "cu_author": "Henrik Ohlsson,Yonina C. Eldar",
+      "date": "2013-08-25",
+      "pub_url": "http://arxiv.org/abs/1308.5447v2"
+    },
+    {
+      "name": "Compact Indexes for Flexible Top-k Retrieval",
+      "cu_author": "Simon Gog,Matthias Petri",
+      "date": "2014-06-12",
+      "pub_url": "http://arxiv.org/abs/1406.3170v1"
+    },
+    {
+      "name": "Content-based image retrieval tutorial",
+      "cu_author": "Joani Mitro",
+      "date": "2016-08-12",
+      "pub_url": "http://arxiv.org/abs/1608.03811v1"
+    },
+    {
+      "name": "Searching Data: A Review of Observational Data Retrieval Practices in\n  Selected Disciplines",
+      "cu_author": "Kathleen Gregory,Paul Groth,Helena Cousijn,Andrea Scharnhorst,Sally Wyatt",
+      "date": "2017-07-21",
+      "pub_url": "http://arxiv.org/abs/1707.06937v4"
+    },
+    {
+      "name": "PhasePack User Guide",
+      "cu_author": "Rohan Chandra,Ziyuan Zhong,Justin Hontz,Val McCulloch,Christoph Studer,Tom Goldstein",
+      "date": "2017-11-24",
+      "pub_url": "http://arxiv.org/abs/1711.09777v3"
+    },
+    {
+      "name": "Exploring Combinations of Ontological Features and Keywords for Text\n  Retrieval",
+      "cu_author": "Tru H. Cao,Khanh C. Le,Vuong M. Ngo",
+      "date": "2018-07-20",
+      "pub_url": "http://arxiv.org/abs/1807.07966v1"
+    },
+    {
+      "name": "Answer Interaction in Non-factoid Question Answering Systems",
+      "cu_author": "Chen Qu,Liu Yang,Bruce Croft,Falk Scholer,Yongfeng Zhang",
+      "date": "2019-01-11",
+      "pub_url": "http://arxiv.org/abs/1901.03491v2"
+    },
+    {
+      "name": "On the Replicability of Combining Word Embeddings and Retrieval Models",
+      "cu_author": "Luca Papariello,Alexandros Bampoulidis,Mihai Lupu",
+      "date": "2020-01-13",
+      "pub_url": "http://arxiv.org/abs/2001.04484v1"
+    },
+    {
+      "name": "An Improved Relevance Feedback in CBIR",
+      "cu_author": "Subhadip Maji,Smarajit Bose",
+      "date": "2020-06-21",
+      "pub_url": "http://arxiv.org/abs/2006.11821v2"
+    },
+    {
+      "name": "Uniqueness Theorems for Tomographic Phase Retrieval with Few Diffraction\n  Patterns",
+      "cu_author": "Albert Fannjiang",
+      "date": "2021-12-29",
+      "pub_url": "http://arxiv.org/abs/2112.14726v2"
+    },
+    {
+      "name": "Representation Sparsification with Hybrid Thresholding for Fast\n  SPLADE-based Document Retrieval",
+      "cu_author": "Yifan Qiao,Yingrui Yang,Shanxiu He,Tao Yang",
+      "date": "2023-06-20",
+      "pub_url": "http://arxiv.org/abs/2306.11293v1"
+    },
+    {
+      "name": "A Quantum-based Model for Interactive Information Retrieval (extended\n  version)",
+      "cu_author": "B. Piwowarski,M. Lalmas",
+      "date": "2009-06-22",
+      "pub_url": "http://arxiv.org/abs/0906.4026v2"
+    },
+    {
+      "name": "NLP-SIR: A Natural Language Approach for Spreadsheet Information\n  Retrieval",
+      "cu_author": "Derek Flood,Kevin Mc Daid,Fergal Mc Caffery",
+      "date": "2009-08-08",
+      "pub_url": "http://arxiv.org/abs/0908.1193v1"
+    },
+    {
+      "name": "Overview of EIREX 2010: Computing",
+      "cu_author": "Juli\u00e1n Urbano,M\u00f3nica Marrero,Diego Mart\u00edn,Jorge Morato",
+      "date": "2011-12-31",
+      "pub_url": "http://arxiv.org/abs/1201.0274v1"
+    },
+    {
+      "name": "Overview of EIREX 2011: Crowdsourcing",
+      "cu_author": "Juli\u00e1n Urbano,Diego Mart\u00edn,M\u00f3nica Marrero,Jorge Morato",
+      "date": "2012-03-02",
+      "pub_url": "http://arxiv.org/abs/1203.0518v1"
+    },
+    {
+      "name": "Deep Learning Relevance: Creating Relevant Information (as Opposed to\n  Retrieving it)",
+      "cu_author": "Christina Lioma,Birger Larsen,Casper Petersen,Jakob Grue Simonsen",
+      "date": "2016-06-24",
+      "pub_url": "http://arxiv.org/abs/1606.07660v2"
+    },
+    {
+      "name": "Private Information Retrieval from MDS Coded Databases with Colluding\n  Servers under Several Variant Models",
+      "cu_author": "Yiwei Zhang,Gennian Ge",
+      "date": "2017-05-09",
+      "pub_url": "http://arxiv.org/abs/1705.03186v2"
+    },
+    {
+      "name": "Toward Validation of Textual Information Retrieval Techniques for\n  Software Weaknesses",
+      "cu_author": "Jukka Ruohonen,Ville Lepp\u00e4nen",
+      "date": "2018-09-05",
+      "pub_url": "http://arxiv.org/abs/1809.01360v1"
+    },
+    {
+      "name": "Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory",
+      "cu_author": "Deng Cai,Yan Wang,Victoria Bi,Zhaopeng Tu,Xiaojiang Liu,Wai Lam,Shuming Shi",
+      "date": "2018-09-14",
+      "pub_url": "http://arxiv.org/abs/1809.05296v5"
+    },
+    {
+      "name": "MedGraph: An experimental semantic information retrieval method using\n  knowledge graph embedding for the biomedical citations indexed in PubMed",
+      "cu_author": "Islam Akef Ebeid,Elizabeth Pierce",
+      "date": "2021-12-12",
+      "pub_url": "http://arxiv.org/abs/2112.06348v2"
+    },
+    {
+      "name": "Deep Supervised Information Bottleneck Hashing for Cross-modal Retrieval\n  based Computer-aided Diagnosis",
+      "cu_author": "Yufeng Shi,Shuhuang Chen,Xinge You,Qinmu Peng,Weihua Ou,Yue Zhao",
+      "date": "2022-05-06",
+      "pub_url": "http://arxiv.org/abs/2205.08365v1"
+    },
+    {
+      "name": "Incorporating Relevance Feedback for Information-Seeking Retrieval using\n  Few-Shot Document Re-Ranking",
+      "cu_author": "Tim Baumg\u00e4rtner,Leonardo F. R. Ribeiro,Nils Reimers,Iryna Gurevych",
+      "date": "2022-10-19",
+      "pub_url": "http://arxiv.org/abs/2210.10695v1"
+    },
+    {
+      "name": "Zero-Shot Medical Information Retrieval via Knowledge Graph Embedding",
+      "cu_author": "Yuqi Wang,Zeqiang Wang,Wei Wang,Qi Chen,Kaizhu Huang,Anh Nguyen,Suparna De",
+      "date": "2023-10-31",
+      "pub_url": "http://arxiv.org/abs/2310.20588v1"
+    },
+    {
+      "name": "Towards an All-Purpose Content-Based Multimedia Information Retrieval\n  System",
+      "cu_author": "Ralph Gasser,Luca Rossetto,Heiko Schuldt",
+      "date": "2019-02-11",
+      "pub_url": "http://arxiv.org/abs/1902.03878v1"
+    },
+    {
+      "name": "Revealing the Importance of Semantic Retrieval for Machine Reading at\n  Scale",
+      "cu_author": "Yixin Nie,Songhe Wang,Mohit Bansal",
+      "date": "2019-09-17",
+      "pub_url": "http://arxiv.org/abs/1909.08041v1"
+    },
+    {
+      "name": "Private Information Retrieval Over Gaussian MAC",
+      "cu_author": "Ori Shmuel,Asaf Cohen",
+      "date": "2020-01-11",
+      "pub_url": "http://arxiv.org/abs/2001.03753v4"
+    },
+    {
+      "name": "RISA-Net: Rotation-Invariant Structure-Aware Network for Fine-Grained 3D\n  Shape Retrieval",
+      "cu_author": "Rao Fu,Jie Yang,Jiawei Sun,Fang-Lue Zhang,Yu-Kun Lai,Lin Gao",
+      "date": "2020-10-02",
+      "pub_url": "http://arxiv.org/abs/2010.00973v1"
+    },
+    {
+      "name": "BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information\n  Retrieval Models",
+      "cu_author": "Nandan Thakur,Nils Reimers,Andreas R\u00fcckl\u00e9,Abhishek Srivastava,Iryna Gurevych",
+      "date": "2021-04-17",
+      "pub_url": "http://arxiv.org/abs/2104.08663v4"
+    },
+    {
+      "name": "LongEval-Retrieval: French-English Dynamic Test Collection for\n  Continuous Web Search Evaluation",
+      "cu_author": "Petra Galu\u0161\u010d\u00e1kov\u00e1 Romain Deveaud,Gabriela Gonzalez-Saez,Philippe Mulhem,Lorraine Goeuriot,Florina Piroi,Martin Popel",
+      "date": "2023-03-06",
+      "pub_url": "http://arxiv.org/abs/2303.03229v2"
+    },
+    {
+      "name": "Word for Person: Zero-shot Composed Person Retrieval",
+      "cu_author": "Delong Liu,Haiwen Li,Zhicheng Zhao,Fei Su,Hongying Meng",
+      "date": "2023-11-25",
+      "pub_url": "http://arxiv.org/abs/2311.16515v1"
+    },
+    {
+      "name": "Traversing the Continuous Spectrum of Image Retrieval with Deep Dynamic\n  Models",
+      "cu_author": "Ziad Al-Halah,Andreas M. Lehrmann,Leonid Sigal",
+      "date": "2018-12-01",
+      "pub_url": "http://arxiv.org/abs/1812.00202v2"
+    },
+    {
+      "name": "Rider: Reader-Guided Passage Reranking for Open-Domain Question\n  Answering",
+      "cu_author": "Yuning Mao,Pengcheng He,Xiaodong Liu,Yelong Shen,Jianfeng Gao,Jiawei Han,Weizhu Chen",
+      "date": "2021-01-01",
+      "pub_url": "http://arxiv.org/abs/2101.00294v3"
+    },
+    {
+      "name": "Semantic Models for the First-stage Retrieval: A Comprehensive Review",
+      "cu_author": "Jiafeng Guo,Yinqiong Cai,Yixing Fan,Fei Sun,Ruqing Zhang,Xueqi Cheng",
+      "date": "2021-03-08",
+      "pub_url": "http://arxiv.org/abs/2103.04831v4"
+    },
+    {
+      "name": "Controllable Gradient Item Retrieval",
+      "cu_author": "Haonan Wang,Chang Zhou,Carl Yang,Hongxia Yang,Jingrui He",
+      "date": "2021-05-31",
+      "pub_url": "http://arxiv.org/abs/2106.00062v1"
+    },
+    {
+      "name": "Pre-trained Language Model for Web-scale Retrieval in Baidu Search",
+      "cu_author": "Yiding Liu,Guan Huang,Jiaxiang Liu,Weixue Lu,Suqi Cheng,Yukun Li,Daiting Shi,Shuaiqiang Wang,Zhicong Cheng,Dawei Yin",
+      "date": "2021-06-07",
+      "pub_url": "http://arxiv.org/abs/2106.03373v4"
+    },
+    {
+      "name": "Embedding-based Product Retrieval in Taobao Search",
+      "cu_author": "Sen Li,Fuyu Lv,Taiwei Jin,Guli Lin,Keping Yang,Xiaoyi Zeng,Xiao-Ming Wu,Qianli Ma",
+      "date": "2021-06-17",
+      "pub_url": "http://arxiv.org/abs/2106.09297v1"
+    },
+    {
+      "name": "Orthonormal Product Quantization Network for Scalable Face Image\n  Retrieval",
+      "cu_author": "Ming Zhang,Xuefei Zhe,Hong Yan",
+      "date": "2021-07-01",
+      "pub_url": "http://arxiv.org/abs/2107.00327v4"
+    },
+    {
+      "name": "Audio Retrieval with Natural Language Queries: A Benchmark Study",
+      "cu_author": "A. Sophia Koepke,Andreea-Maria Oncescu,Jo\u00e3o F. Henriques,Zeynep Akata,Samuel Albanie",
+      "date": "2021-12-17",
+      "pub_url": "http://arxiv.org/abs/2112.09418v2"
+    },
+    {
+      "name": "Progressive Learning for Image Retrieval with Hybrid-Modality Queries",
+      "cu_author": "Yida Zhao,Yuqing Song,Qin Jin",
+      "date": "2022-04-24",
+      "pub_url": "http://arxiv.org/abs/2204.11212v1"
+    },
+    {
+      "name": "DPTDR: Deep Prompt Tuning for Dense Passage Retrieval",
+      "cu_author": "Zhengyang Tang,Benyou Wang,Ting Yao",
+      "date": "2022-08-24",
+      "pub_url": "http://arxiv.org/abs/2208.11503v1"
+    },
+    {
+      "name": "EViT: Privacy-Preserving Image Retrieval via Encrypted Vision\n  Transformer in Cloud Computing",
+      "cu_author": "Qihua Feng,Peiya Li,Zhixun Lu,Chaozhuo Li,Zefang Wang,Zhiquan Liu,Chunhui Duan,Feiran Huang",
+      "date": "2022-08-31",
+      "pub_url": "http://arxiv.org/abs/2208.14657v1"
+    },
+    {
+      "name": "LexLIP: Lexicon-Bottlenecked Language-Image Pre-Training for Large-Scale\n  Image-Text Retrieval",
+      "cu_author": "Ziyang luo,Pu Zhao,Can Xu,Xiubo Geng,Tao Shen,Chongyang Tao,Jing Ma,Qingwen lin,Daxin Jiang",
+      "date": "2023-02-06",
+      "pub_url": "http://arxiv.org/abs/2302.02908v1"
+    },
+    {
+      "name": "LogoNet: a fine-grained network for instance-level logo sketch retrieval",
+      "cu_author": "Binbin Feng,Jun Li,Jianhua Xu",
+      "date": "2023-04-05",
+      "pub_url": "http://arxiv.org/abs/2304.02214v1"
+    },
+    {
+      "name": "Shall We Pretrain Autoregressive Language Models with Retrieval? A\n  Comprehensive Study",
+      "cu_author": "Boxin Wang,Wei Ping,Peng Xu,Lawrence McAfee,Zihan Liu,Mohammad Shoeybi,Yi Dong,Oleksii Kuchaiev,Bo Li,Chaowei Xiao,Anima Anandkumar,Bryan Catanzaro",
+      "date": "2023-04-13",
+      "pub_url": "http://arxiv.org/abs/2304.06762v2"
+    },
+    {
+      "name": "Improving Retrieval-Augmented Large Language Models via Data Importance\n  Learning",
+      "cu_author": "Xiaozhong Lyu,Stefan Grafberger,Samantha Biegel,Shaopeng Wei,Meng Cao,Sebastian Schelter,Ce Zhang",
+      "date": "2023-07-06",
+      "pub_url": "http://arxiv.org/abs/2307.03027v1"
+    },
+    {
+      "name": "Cross-Modal Retrieval: A Systematic Review of Methods and Future\n  Directions",
+      "cu_author": "Fengling Li,Lei Zhu,Tianshi Wang,Jingjing Li,Zheng Zhang,Heng Tao Shen",
+      "date": "2023-08-28",
+      "pub_url": "http://arxiv.org/abs/2308.14263v2"
+    },
+    {
+      "name": "Audio enabled information extraction system for cricket and hockey\n  domains",
+      "cu_author": "S. Saraswathi,Narasimha Sravan. V,Sai Vamsi Krishna. B. V,Suresh Reddy. S",
+      "date": "2010-04-26",
+      "pub_url": "http://arxiv.org/abs/1004.4464v1"
+    },
+    {
+      "name": "Evaluating Stochastic Rankings with Expected Exposure",
+      "cu_author": "Fernando Diaz,Bhaskar Mitra,Michael D. Ekstrand,Asia J. Biega,Ben Carterette",
+      "date": "2020-04-27",
+      "pub_url": "http://arxiv.org/abs/2004.13157v2"
+    },
+    {
+      "name": "High-Rate Quantum Private Information Retrieval with Weakly Self-Dual\n  Star Product Codes",
+      "cu_author": "Matteo Allaix,Lukas Holzbaur,Tefjol Pllaha,Camilla Hollanti",
+      "date": "2021-02-04",
+      "pub_url": "http://arxiv.org/abs/2102.02511v2"
+    },
+    {
+      "name": "Unsupervised Visual and Textual Information Fusion in Multimedia\n  Retrieval - A Graph-based Point of View",
+      "cu_author": "Gabriela Csurka,Julien Ah-Pine,St\u00e9phane Clinchant",
+      "date": "2014-01-27",
+      "pub_url": "http://arxiv.org/abs/1401.6891v1"
+    },
+    {
+      "name": "Phase retrieval from the norms of affine transformations",
+      "cu_author": "Meng Huang,Zhiqiang Xu",
+      "date": "2018-05-21",
+      "pub_url": "http://arxiv.org/abs/1805.07899v2"
+    },
+    {
+      "name": "On the Equilibrium of Query Reformulation and Document Retrieval",
+      "cu_author": "Shihao Zou,Guanyu Tao,Jun Wang,Weinan Zhang,Dell Zhang",
+      "date": "2018-07-06",
+      "pub_url": "http://arxiv.org/abs/1807.02299v2"
+    },
+    {
+      "name": "Deep Semantic Multimodal Hashing Network for Scalable Image-Text and\n  Video-Text Retrievals",
+      "cu_author": "Lu Jin,Zechao Li,Jinhui Tang",
+      "date": "2019-01-09",
+      "pub_url": "http://arxiv.org/abs/1901.02662v3"
+    },
+    {
+      "name": "Baleen: Robust Multi-Hop Reasoning at Scale via Condensed Retrieval",
+      "cu_author": "Omar Khattab,Christopher Potts,Matei Zaharia",
+      "date": "2021-01-02",
+      "pub_url": "http://arxiv.org/abs/2101.00436v3"
+    },
+    {
+      "name": "Jointly Optimizing Query Encoder and Product Quantization to Improve\n  Retrieval Performance",
+      "cu_author": "Jingtao Zhan,Jiaxin Mao,Yiqun Liu,Jiafeng Guo,Min Zhang,Shaoping Ma",
+      "date": "2021-08-02",
+      "pub_url": "http://arxiv.org/abs/2108.00644v2"
+    },
+    {
+      "name": "Promptagator: Few-shot Dense Retrieval From 8 Examples",
+      "cu_author": "Zhuyun Dai,Vincent Y. Zhao,Ji Ma,Yi Luan,Jianmo Ni,Jing Lu,Anton Bakalov,Kelvin Guu,Keith B. Hall,Ming-Wei Chang",
+      "date": "2022-09-23",
+      "pub_url": "http://arxiv.org/abs/2209.11755v1"
+    },
+    {
+      "name": "MAKE: Vision-Language Pre-training based Product Retrieval in Taobao\n  Search",
+      "cu_author": "Xiaoyang Zheng,Zilong Wang,Ke Xu,Sen Li,Tao Zhuang,Qingwen Liu,Xiaoyi Zeng",
+      "date": "2023-01-30",
+      "pub_url": "http://arxiv.org/abs/2301.12646v2"
+    },
+    {
+      "name": "Chatting Makes Perfect: Chat-based Image Retrieval",
+      "cu_author": "Matan Levy,Rami Ben-Ari,Nir Darshan,Dani Lischinski",
+      "date": "2023-05-31",
+      "pub_url": "http://arxiv.org/abs/2305.20062v2"
+    },
+    {
+      "name": "RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit",
+      "cu_author": "Jiongnan Liu,Jiajie Jin,Zihan Wang,Jiehan Cheng,Zhicheng Dou,Ji-Rong Wen",
+      "date": "2023-06-08",
+      "pub_url": "http://arxiv.org/abs/2306.05212v1"
+    },
+    {
+      "name": "Dense Retrieval Adaptation using Target Domain Description",
+      "cu_author": "Helia Hashemi,Yong Zhuang,Sachith Sri Ram Kothur,Srivas Prasad,Edgar Meij,W. Bruce Croft",
+      "date": "2023-07-06",
+      "pub_url": "http://arxiv.org/abs/2307.02740v1"
+    },
+    {
+      "name": "Poisoning Retrieval Corpora by Injecting Adversarial Passages",
+      "cu_author": "Zexuan Zhong,Ziqing Huang,Alexander Wettig,Danqi Chen",
+      "date": "2023-10-29",
+      "pub_url": "http://arxiv.org/abs/2310.19156v1"
+    },
+    {
+      "name": "A database approach to information retrieval: The remarkable\n  relationship between language models and region models",
+      "cu_author": "Djoerd Hiemstra,Vojkan Mihajlovic",
+      "date": "2010-05-26",
+      "pub_url": "http://arxiv.org/abs/1005.4752v1"
+    },
+    {
+      "name": "3D Model Retrieval Based on Semantic and Shape Indexes",
+      "cu_author": "My Abdellah Kassimi,Omar El beqqali",
+      "date": "2011-11-28",
+      "pub_url": "http://arxiv.org/abs/1111.6387v1"
+    },
+    {
+      "name": "Pareto-depth for Multiple-query Image Retrieval",
+      "cu_author": "Ko-Jen Hsiao,Jeff Calder,Alfred O. Hero III",
+      "date": "2014-02-21",
+      "pub_url": "http://arxiv.org/abs/1402.5176v1"
+    },
+    {
+      "name": "Generalized Ensemble Model for Document Ranking in Information Retrieval",
+      "cu_author": "Yanshan Wang,In-Chan Choi,Hongfang Liu",
+      "date": "2015-07-30",
+      "pub_url": "http://arxiv.org/abs/1507.08586v3"
+    },
+    {
+      "name": "Medical Image Retrieval using Deep Convolutional Neural Network",
+      "cu_author": "Adnan Qayyum,Syed Muhammad Anwar,Muhammad Awais,Muhammad Majid",
+      "date": "2017-03-24",
+      "pub_url": "http://arxiv.org/abs/1703.08472v1"
+    },
+    {
+      "name": "Data description and retrieval using periods represented by uncertain\n  time intervals",
+      "cu_author": "Tatsuki Sekino",
+      "date": "2019-05-11",
+      "pub_url": "http://arxiv.org/abs/1905.04611v2"
+    },
+    {
+      "name": "Complete phase retrieval of photoelectron wavepackets",
+      "cu_author": "Luca Pedrelli,Phillip D. Keathley,Laura Cattaneo,Franz X. K\u00e4rtner,Ursula Keller",
+      "date": "2020-02-28",
+      "pub_url": "http://arxiv.org/abs/2002.12611v1"
+    },
+    {
+      "name": "Phase Retrieval from 1D Fourier Measurements: Convexity, Uniqueness, and\n  Algorithms",
+      "cu_author": "Kejun Huang,Yonina C. Eldar,Nicholas D. Sidiropoulos",
+      "date": "2016-03-16",
+      "pub_url": "http://arxiv.org/abs/1603.05215v2"
+    },
+    {
+      "name": "Enhancing Flood Impact Analysis using Interactive Retrieval of Social\n  Media Images",
+      "cu_author": "Bj\u00f6rn Barz,Kai Schr\u00f6ter,Moritz M\u00fcnch,Bin Yang,Andrea Unger,Doris Dransch,Joachim Denzler",
+      "date": "2019-08-09",
+      "pub_url": "http://arxiv.org/abs/1908.03361v1"
+    },
+    {
+      "name": "Multi-step Entity-centric Information Retrieval for Multi-Hop Question\n  Answering",
+      "cu_author": "Ameya Godbole,Dilip Kavarthapu,Rajarshi Das,Zhiyu Gong,Abhishek Singhal,Hamed Zamani,Mo Yu,Tian Gao,Xiaoxiao Guo,Manzil Zaheer,Andrew McCallum",
+      "date": "2019-09-17",
+      "pub_url": "http://arxiv.org/abs/1909.07598v1"
+    },
+    {
+      "name": "Deep Learning for MIR Tutorial",
+      "cu_author": "Alexander Schindler,Thomas Lidy,Sebastian B\u00f6ck",
+      "date": "2020-01-15",
+      "pub_url": "http://arxiv.org/abs/2001.05266v1"
+    },
+    {
+      "name": "Distilling Knowledge for Fast Retrieval-based Chat-bots",
+      "cu_author": "Amir Vakili Tahami,Kamyar Ghajar,Azadeh Shakery",
+      "date": "2020-04-23",
+      "pub_url": "http://arxiv.org/abs/2004.11045v1"
+    }  
+]
